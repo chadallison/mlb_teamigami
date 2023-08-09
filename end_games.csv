@@ -1,0 +1,1713 @@
+game_pk,date,away_team,away_score,home_score,home_team
+718780,2023-03-30,Atlanta Braves,7,2,Washington Nationals
+718781,2023-03-30,San Francisco Giants,0,5,New York Yankees
+718782,2023-03-30,Baltimore Orioles,10,9,Boston Red Sox
+718777,2023-03-30,Milwaukee Brewers,0,4,Chicago Cubs
+718776,2023-03-30,Detroit Tigers,0,4,Tampa Bay Rays
+718779,2023-03-30,Philadelphia Phillies,7,11,Texas Rangers
+718773,2023-03-30,Pittsburgh Pirates,5,4,Cincinnati Reds
+718772,2023-03-30,Toronto Blue Jays,10,9,St. Louis Cardinals
+718775,2023-03-30,Minnesota Twins,2,0,Kansas City Royals
+718774,2023-03-30,New York Mets,5,3,Miami Marlins
+718768,2023-03-30,Chicago White Sox,3,2,Houston Astros
+718778,2023-03-30,Colorado Rockies,7,2,San Diego Padres
+718769,2023-03-30,Los Angeles Angels,1,2,Oakland Athletics
+718770,2023-03-30,Arizona Diamondbacks,2,8,Los Angeles Dodgers
+718767,2023-03-30,Cleveland Guardians,0,3,Seattle Mariners
+718771,2023-03-31,New York Mets,1,2,Miami Marlins
+718764,2023-03-31,Chicago White Sox,3,6,Houston Astros
+718766,2023-03-31,Colorado Rockies,4,1,San Diego Padres
+718765,2023-03-31,Arizona Diamondbacks,2,1,Los Angeles Dodgers
+718763,2023-03-31,Cleveland Guardians,9,4,Seattle Mariners
+718760,2023-04-01,Chicago White Sox,4,6,Houston Astros
+718759,2023-04-01,Toronto Blue Jays,1,4,St. Louis Cardinals
+718758,2023-04-01,Milwaukee Brewers,3,1,Chicago Cubs
+718752,2023-04-01,Philadelphia Phillies,3,16,Texas Rangers
+718753,2023-04-01,Atlanta Braves,7,1,Washington Nationals
+718762,2023-04-01,San Francisco Giants,7,5,New York Yankees
+718757,2023-04-01,Los Angeles Angels,13,1,Oakland Athletics
+718761,2023-04-01,Baltimore Orioles,8,9,Boston Red Sox
+718756,2023-04-01,Pittsburgh Pirates,2,6,Cincinnati Reds
+718754,2023-04-01,Detroit Tigers,2,12,Tampa Bay Rays
+718751,2023-04-01,Minnesota Twins,2,0,Kansas City Royals
+718755,2023-04-01,New York Mets,6,2,Miami Marlins
+718750,2023-04-01,Colorado Rockies,4,8,San Diego Padres
+718749,2023-04-01,Arizona Diamondbacks,1,10,Los Angeles Dodgers
+718746,2023-04-01,Cleveland Guardians,2,0,Seattle Mariners
+718742,2023-04-02,Detroit Tigers,1,5,Tampa Bay Rays
+718748,2023-04-02,Baltimore Orioles,5,9,Boston Red Sox
+718743,2023-04-02,Atlanta Braves,1,4,Washington Nationals
+718747,2023-04-02,San Francisco Giants,0,6,New York Yankees
+718744,2023-04-02,Pittsburgh Pirates,1,3,Cincinnati Reds
+718741,2023-04-02,New York Mets,5,1,Miami Marlins
+718745,2023-04-02,Minnesota Twins,7,4,Kansas City Royals
+718740,2023-04-02,Chicago White Sox,6,3,Houston Astros
+718737,2023-04-02,Toronto Blue Jays,4,9,St. Louis Cardinals
+718738,2023-04-02,Milwaukee Brewers,9,5,Chicago Cubs
+718734,2023-04-02,Los Angeles Angels,6,0,Oakland Athletics
+718736,2023-04-02,Arizona Diamondbacks,2,1,Los Angeles Dodgers
+718733,2023-04-02,Colorado Rockies,1,3,San Diego Padres
+718735,2023-04-02,Cleveland Guardians,6,5,Seattle Mariners
+718739,2023-04-02,Philadelphia Phillies,1,2,Texas Rangers
+718731,2023-04-03,New York Mets,0,10,Milwaukee Brewers
+718730,2023-04-03,San Francisco Giants,12,3,Chicago White Sox
+718728,2023-04-03,Chicago Cubs,6,7,Cincinnati Reds
+718729,2023-04-03,Minnesota Twins,11,1,Miami Marlins
+718732,2023-04-03,Tampa Bay Rays,6,2,Washington Nationals
+718725,2023-04-03,Philadelphia Phillies,1,8,New York Yankees
+718724,2023-04-03,Pittsburgh Pirates,7,6,Boston Red Sox
+718719,2023-04-03,Toronto Blue Jays,5,9,Kansas City Royals
+718727,2023-04-03,Atlanta Braves,8,4,St. Louis Cardinals
+718726,2023-04-03,Baltimore Orioles,2,0,Texas Rangers
+718723,2023-04-03,Detroit Tigers,7,6,Houston Astros
+718721,2023-04-03,Cleveland Guardians,12,11,Oakland Athletics
+718722,2023-04-03,Arizona Diamondbacks,4,5,San Diego Padres
+718720,2023-04-03,Los Angeles Angels,7,3,Seattle Mariners
+718718,2023-04-03,Colorado Rockies,4,13,Los Angeles Dodgers
+718717,2023-04-04,Arizona Diamondbacks,8,6,San Diego Padres
+718716,2023-04-04,Chicago Cubs,12,5,Cincinnati Reds
+718714,2023-04-04,Minnesota Twins,0,1,Miami Marlins
+718715,2023-04-04,Tampa Bay Rays,10,6,Washington Nationals
+718710,2023-04-04,Philadelphia Phillies,4,1,New York Yankees
+718713,2023-04-04,Pittsburgh Pirates,4,1,Boston Red Sox
+718708,2023-04-04,Toronto Blue Jays,4,1,Kansas City Royals
+718712,2023-04-04,New York Mets,0,9,Milwaukee Brewers
+718711,2023-04-04,Atlanta Braves,4,1,St. Louis Cardinals
+718709,2023-04-04,Baltimore Orioles,7,2,Texas Rangers
+718705,2023-04-04,Detroit Tigers,6,3,Houston Astros
+718707,2023-04-04,Cleveland Guardians,3,4,Oakland Athletics
+718706,2023-04-04,Los Angeles Angels,2,11,Seattle Mariners
+718703,2023-04-04,Colorado Rockies,2,5,Los Angeles Dodgers
+718704,2023-04-05,Tampa Bay Rays,7,2,Washington Nationals
+718699,2023-04-05,Philadelphia Phillies,2,4,New York Yankees
+718701,2023-04-05,Minnesota Twins,2,5,Miami Marlins
+718697,2023-04-05,Atlanta Braves,5,2,St. Louis Cardinals
+718702,2023-04-05,Pittsburgh Pirates,4,1,Boston Red Sox
+718698,2023-04-05,New York Mets,6,7,Milwaukee Brewers
+718694,2023-04-05,Baltimore Orioles,2,5,Texas Rangers
+718696,2023-04-05,Detroit Tigers,2,8,Houston Astros
+718695,2023-04-05,San Francisco Giants,3,7,Chicago White Sox
+718689,2023-04-05,Cleveland Guardians,6,4,Oakland Athletics
+718691,2023-04-05,Los Angeles Angels,4,3,Seattle Mariners
+718692,2023-04-05,Toronto Blue Jays,3,0,Kansas City Royals
+718690,2023-04-06,Boston Red Sox,6,3,Detroit Tigers
+718686,2023-04-06,Toronto Blue Jays,6,3,Kansas City Royals
+718687,2023-04-06,San Francisco Giants,16,6,Chicago White Sox
+718682,2023-04-06,Washington Nationals,0,1,Colorado Rockies
+718681,2023-04-06,San Diego Padres,6,7,Atlanta Braves
+718683,2023-04-06,Los Angeles Dodgers,5,2,Arizona Diamondbacks
+718693,2023-04-07,Miami Marlins,3,9,New York Mets
+718675,2023-04-07,Texas Rangers,0,2,Chicago Cubs
+718685,2023-04-07,Cincinnati Reds,2,5,Philadelphia Phillies
+718688,2023-04-07,New York Yankees,6,7,Baltimore Orioles
+718677,2023-04-07,Seattle Mariners,5,3,Cleveland Guardians
+718684,2023-04-07,Houston Astros,2,3,Minnesota Twins
+718679,2023-04-07,Chicago White Sox,9,13,Pittsburgh Pirates
+718680,2023-04-07,Kansas City Royals,3,1,San Francisco Giants
+718678,2023-04-07,Oakland Athletics,5,9,Tampa Bay Rays
+718676,2023-04-07,San Diego Padres,5,4,Atlanta Braves
+718674,2023-04-07,St. Louis Cardinals,0,4,Milwaukee Brewers
+718673,2023-04-07,Washington Nationals,10,5,Colorado Rockies
+718670,2023-04-07,Toronto Blue Jays,4,3,Los Angeles Angels
+718671,2023-04-07,Los Angeles Dodgers,3,6,Arizona Diamondbacks
+718666,2023-04-08,Houston Astros,6,9,Minnesota Twins
+718672,2023-04-08,Kansas City Royals,6,5,San Francisco Giants
+718669,2023-04-08,Texas Rangers,3,10,Chicago Cubs
+718668,2023-04-08,Cincinnati Reds,2,3,Philadelphia Phillies
+718667,2023-04-08,Boston Red Sox,14,5,Detroit Tigers
+718665,2023-04-08,Oakland Athletics,0,11,Tampa Bay Rays
+718661,2023-04-08,Miami Marlins,2,5,New York Mets
+718663,2023-04-08,Seattle Mariners,3,2,Cleveland Guardians
+718662,2023-04-08,Chicago White Sox,11,5,Pittsburgh Pirates
+718664,2023-04-08,New York Yankees,4,1,Baltimore Orioles
+718660,2023-04-08,St. Louis Cardinals,6,0,Milwaukee Brewers
+718659,2023-04-08,San Diego Padres,4,1,Atlanta Braves
+718656,2023-04-08,Los Angeles Dodgers,8,12,Arizona Diamondbacks
+718658,2023-04-08,Washington Nationals,7,6,Colorado Rockies
+718657,2023-04-08,Toronto Blue Jays,5,9,Los Angeles Angels
+718652,2023-04-09,Cincinnati Reds,6,4,Philadelphia Phillies
+718654,2023-04-09,Boston Red Sox,4,1,Detroit Tigers
+718655,2023-04-09,Oakland Athletics,0,11,Tampa Bay Rays
+718653,2023-04-09,Chicago White Sox,0,1,Pittsburgh Pirates
+718651,2023-04-09,New York Yankees,5,3,Baltimore Orioles
+718646,2023-04-09,Seattle Mariners,6,7,Cleveland Guardians
+718647,2023-04-09,Miami Marlins,7,2,New York Mets
+718649,2023-04-09,Houston Astros,5,1,Minnesota Twins
+718650,2023-04-09,St. Louis Cardinals,1,6,Milwaukee Brewers
+718642,2023-04-09,Texas Rangers,8,2,Chicago Cubs
+718645,2023-04-09,Washington Nationals,6,7,Colorado Rockies
+718643,2023-04-09,Kansas City Royals,1,3,San Francisco Giants
+718644,2023-04-09,Toronto Blue Jays,12,11,Los Angeles Angels
+718639,2023-04-09,Los Angeles Dodgers,6,11,Arizona Diamondbacks
+718648,2023-04-09,San Diego Padres,10,2,Atlanta Braves
+718640,2023-04-10,Chicago White Sox,4,3,Minnesota Twins
+718637,2023-04-10,New York Yankees,2,3,Cleveland Guardians
+718635,2023-04-10,Oakland Athletics,1,5,Baltimore Orioles
+718632,2023-04-10,Houston Astros,8,2,Pittsburgh Pirates
+718638,2023-04-10,Boston Red Sox,0,1,Tampa Bay Rays
+718633,2023-04-10,Miami Marlins,3,15,Philadelphia Phillies
+718634,2023-04-10,San Diego Padres,0,5,New York Mets
+718636,2023-04-10,Cincinnati Reds,4,5,Atlanta Braves
+718628,2023-04-10,Seattle Mariners,2,3,Chicago Cubs
+718630,2023-04-10,Kansas City Royals,2,11,Texas Rangers
+718629,2023-04-10,St. Louis Cardinals,4,7,Colorado Rockies
+718631,2023-04-10,Washington Nationals,6,4,Los Angeles Angels
+718627,2023-04-10,Milwaukee Brewers,0,3,Arizona Diamondbacks
+718641,2023-04-10,Los Angeles Dodgers,9,1,San Francisco Giants
+718626,2023-04-11,New York Yankees,11,2,Cleveland Guardians
+718618,2023-04-11,Oakland Athletics,8,12,Baltimore Orioles
+718623,2023-04-11,Houston Astros,4,7,Pittsburgh Pirates
+718625,2023-04-11,Boston Red Sox,2,7,Tampa Bay Rays
+718619,2023-04-11,Miami Marlins,8,4,Philadelphia Phillies
+718622,2023-04-11,Detroit Tigers,3,9,Toronto Blue Jays
+718621,2023-04-11,San Diego Padres,4,2,New York Mets
+718620,2023-04-11,Cincinnati Reds,6,7,Atlanta Braves
+718617,2023-04-11,Seattle Mariners,9,14,Chicago Cubs
+718616,2023-04-11,Chicago White Sox,3,4,Minnesota Twins
+718615,2023-04-11,Kansas City Royals,5,8,Texas Rangers
+718613,2023-04-11,St. Louis Cardinals,9,6,Colorado Rockies
+718614,2023-04-11,Washington Nationals,0,2,Los Angeles Angels
+718611,2023-04-11,Milwaukee Brewers,7,1,Arizona Diamondbacks
+718624,2023-04-11,Los Angeles Dodgers,0,5,San Francisco Giants
+718608,2023-04-12,Houston Astros,7,0,Pittsburgh Pirates
+718610,2023-04-12,San Diego Padres,2,5,New York Mets
+718605,2023-04-12,Chicago White Sox,1,3,Minnesota Twins
+718604,2023-04-12,New York Yankees,4,3,Cleveland Guardians
+718606,2023-04-12,Seattle Mariners,5,2,Chicago Cubs
+718607,2023-04-12,St. Louis Cardinals,7,4,Colorado Rockies
+718598,2023-04-12,Milwaukee Brewers,3,7,Arizona Diamondbacks
+718609,2023-04-12,Miami Marlins,3,2,Philadelphia Phillies
+718602,2023-04-12,Washington Nationals,2,3,Los Angeles Angels
+718599,2023-04-12,Oakland Athletics,8,4,Baltimore Orioles
+718600,2023-04-12,Boston Red Sox,7,9,Tampa Bay Rays
+718603,2023-04-12,Detroit Tigers,3,4,Toronto Blue Jays
+718601,2023-04-12,Cincinnati Reds,4,5,Atlanta Braves
+718595,2023-04-12,Kansas City Royals,10,1,Texas Rangers
+718612,2023-04-12,Los Angeles Dodgers,10,5,San Francisco Giants
+718596,2023-04-13,Oakland Athletics,7,8,Baltimore Orioles
+718594,2023-04-13,Boston Red Sox,3,9,Tampa Bay Rays
+718597,2023-04-13,Philadelphia Phillies,2,6,Cincinnati Reds
+718590,2023-04-13,Minnesota Twins,11,2,New York Yankees
+718593,2023-04-13,Detroit Tigers,3,1,Toronto Blue Jays
+718591,2023-04-13,Pittsburgh Pirates,5,0,St. Louis Cardinals
+718589,2023-04-13,Milwaukee Brewers,4,3,San Diego Padres
+718585,2023-04-14,San Francisco Giants,5,7,Detroit Tigers
+718586,2023-04-14,Philadelphia Phillies,8,3,Cincinnati Reds
+718584,2023-04-14,Arizona Diamondbacks,1,5,Miami Marlins
+718592,2023-04-14,Cleveland Guardians,4,3,Washington Nationals
+718588,2023-04-14,Minnesota Twins,4,3,New York Yankees
+718587,2023-04-14,Tampa Bay Rays,3,6,Toronto Blue Jays
+718580,2023-04-14,Los Angeles Angels,3,5,Boston Red Sox
+718583,2023-04-14,Baltimore Orioles,6,3,Chicago White Sox
+718581,2023-04-14,Texas Rangers,6,2,Houston Astros
+718579,2023-04-14,Atlanta Braves,10,3,Kansas City Royals
+718582,2023-04-14,Pittsburgh Pirates,0,3,St. Louis Cardinals
+718578,2023-04-14,New York Mets,17,6,Oakland Athletics
+718574,2023-04-14,Milwaukee Brewers,11,2,San Diego Padres
+718575,2023-04-14,Chicago Cubs,8,2,Los Angeles Dodgers
+718577,2023-04-14,Colorado Rockies,3,5,Seattle Mariners
+718572,2023-04-15,Minnesota Twins,1,6,New York Yankees
+718571,2023-04-15,San Francisco Giants,6,7,Detroit Tigers
+718570,2023-04-15,Baltimore Orioles,6,7,Chicago White Sox
+718568,2023-04-15,Pittsburgh Pirates,6,3,St. Louis Cardinals
+718569,2023-04-15,Tampa Bay Rays,2,5,Toronto Blue Jays
+718573,2023-04-15,Cleveland Guardians,6,4,Washington Nationals
+718560,2023-04-15,Milwaukee Brewers,3,10,San Diego Padres
+718565,2023-04-15,New York Mets,3,2,Oakland Athletics
+718576,2023-04-15,Los Angeles Angels,7,9,Boston Red Sox
+718566,2023-04-15,Philadelphia Phillies,0,13,Cincinnati Reds
+718563,2023-04-15,Atlanta Braves,9,3,Kansas City Royals
+718567,2023-04-15,Arizona Diamondbacks,2,3,Miami Marlins
+718562,2023-04-15,Texas Rangers,2,8,Houston Astros
+718564,2023-04-15,Chicago Cubs,1,2,Los Angeles Dodgers
+718561,2023-04-15,Colorado Rockies,2,9,Seattle Mariners
+718559,2023-04-16,Los Angeles Angels,1,2,Boston Red Sox
+718555,2023-04-16,Cleveland Guardians,6,7,Washington Nationals
+718557,2023-04-16,Minnesota Twins,0,2,New York Yankees
+718556,2023-04-16,Tampa Bay Rays,8,1,Toronto Blue Jays
+718554,2023-04-16,Philadelphia Phillies,14,3,Cincinnati Reds
+718550,2023-04-16,Arizona Diamondbacks,5,0,Miami Marlins
+718551,2023-04-16,Atlanta Braves,5,4,Kansas City Royals
+718553,2023-04-16,Baltimore Orioles,8,4,Chicago White Sox
+718548,2023-04-16,Pittsburgh Pirates,4,5,St. Louis Cardinals
+718546,2023-04-16,New York Mets,4,3,Oakland Athletics
+718547,2023-04-16,Chicago Cubs,3,2,Los Angeles Dodgers
+718545,2023-04-16,Colorado Rockies,0,1,Seattle Mariners
+718549,2023-04-16,Milwaukee Brewers,1,0,San Diego Padres
+718552,2023-04-16,Texas Rangers,9,1,Houston Astros
+718540,2023-04-17,Los Angeles Angels,5,4,Boston Red Sox
+718542,2023-04-17,Tampa Bay Rays,1,8,Cincinnati Reds
+718544,2023-04-17,San Francisco Giants,3,4,Miami Marlins
+718539,2023-04-17,Texas Rangers,4,0,Kansas City Royals
+718538,2023-04-17,Arizona Diamondbacks,6,3,St. Louis Cardinals
+718537,2023-04-17,Toronto Blue Jays,2,9,Houston Astros
+718535,2023-04-17,Pittsburgh Pirates,14,3,Colorado Rockies
+718536,2023-04-17,Chicago Cubs,10,1,Oakland Athletics
+718533,2023-04-17,Atlanta Braves,2,0,San Diego Padres
+718534,2023-04-17,Milwaukee Brewers,7,3,Seattle Mariners
+718532,2023-04-17,New York Mets,8,6,Los Angeles Dodgers
+718530,2023-04-18,Cleveland Guardians,3,4,Detroit Tigers
+718541,2023-04-18,Cleveland Guardians,0,1,Detroit Tigers
+718525,2023-04-18,Philadelphia Phillies,7,4,Chicago White Sox
+718543,2023-04-18,Philadelphia Phillies,0,3,Chicago White Sox
+718526,2023-04-18,Tampa Bay Rays,10,0,Cincinnati Reds
+718528,2023-04-18,San Francisco Giants,2,4,Miami Marlins
+718531,2023-04-18,Baltimore Orioles,1,0,Washington Nationals
+718529,2023-04-18,Los Angeles Angels,5,2,New York Yankees
+718524,2023-04-18,Minnesota Twins,4,5,Boston Red Sox
+718522,2023-04-18,Texas Rangers,12,2,Kansas City Royals
+718527,2023-04-18,Arizona Diamondbacks,8,7,St. Louis Cardinals
+718520,2023-04-18,Toronto Blue Jays,4,2,Houston Astros
+718521,2023-04-18,Pittsburgh Pirates,5,3,Colorado Rockies
+718523,2023-04-18,Chicago Cubs,4,0,Oakland Athletics
+718519,2023-04-18,Atlanta Braves,8,1,San Diego Padres
+718517,2023-04-18,Milwaukee Brewers,6,5,Seattle Mariners
+718516,2023-04-18,New York Mets,0,5,Los Angeles Dodgers
+718515,2023-04-19,Tampa Bay Rays,8,0,Cincinnati Reds
+718513,2023-04-19,Cleveland Guardians,3,2,Detroit Tigers
+718511,2023-04-19,San Francisco Giants,5,2,Miami Marlins
+718512,2023-04-19,Arizona Diamondbacks,5,14,St. Louis Cardinals
+718514,2023-04-19,Texas Rangers,12,3,Kansas City Royals
+718510,2023-04-19,Philadelphia Phillies,5,2,Chicago White Sox
+718508,2023-04-19,New York Mets,5,3,Los Angeles Dodgers
+718509,2023-04-19,Pittsburgh Pirates,14,3,Colorado Rockies
+718506,2023-04-19,Chicago Cubs,12,2,Oakland Athletics
+718507,2023-04-19,Atlanta Braves,0,1,San Diego Padres
+718502,2023-04-19,Milwaukee Brewers,5,3,Seattle Mariners
+718518,2023-04-19,Baltimore Orioles,4,0,Washington Nationals
+718504,2023-04-19,Los Angeles Angels,2,3,New York Yankees
+718505,2023-04-19,Minnesota Twins,10,4,Boston Red Sox
+718501,2023-04-19,Toronto Blue Jays,1,8,Houston Astros
+718497,2023-04-20,Minnesota Twins,5,11,Boston Red Sox
+718496,2023-04-20,Los Angeles Angels,3,9,New York Yankees
+718500,2023-04-20,Cincinnati Reds,3,4,Pittsburgh Pirates
+718498,2023-04-20,Colorado Rockies,5,0,Philadelphia Phillies
+718499,2023-04-20,Los Angeles Dodgers,6,2,Chicago Cubs
+718494,2023-04-20,San Diego Padres,7,5,Arizona Diamondbacks
+718503,2023-04-20,New York Mets,9,4,San Francisco Giants
+718491,2023-04-21,Los Angeles Dodgers,0,13,Chicago Cubs
+718492,2023-04-21,Cincinnati Reds,2,4,Pittsburgh Pirates
+718486,2023-04-21,Chicago White Sox,7,8,Tampa Bay Rays
+718495,2023-04-21,Detroit Tigers,1,2,Baltimore Orioles
+718493,2023-04-21,Colorado Rockies,3,4,Philadelphia Phillies
+718487,2023-04-21,Toronto Blue Jays,6,1,New York Yankees
+718489,2023-04-21,Houston Astros,6,4,Atlanta Braves
+718490,2023-04-21,Oakland Athletics,5,4,Texas Rangers
+718482,2023-04-21,Washington Nationals,3,2,Minnesota Twins
+718483,2023-04-21,Boston Red Sox,5,3,Milwaukee Brewers
+718485,2023-04-21,Kansas City Royals,0,2,Los Angeles Angels
+718484,2023-04-21,San Diego Padres,0,9,Arizona Diamondbacks
+718481,2023-04-21,St. Louis Cardinals,2,5,Seattle Mariners
+718480,2023-04-21,New York Mets,7,0,San Francisco Giants
+718476,2023-04-22,Toronto Blue Jays,2,3,New York Yankees
+718468,2023-04-22,Washington Nationals,10,4,Minnesota Twins
+718479,2023-04-22,Los Angeles Dodgers,9,4,Chicago Cubs
+718475,2023-04-22,Colorado Rockies,3,4,Philadelphia Phillies
+718473,2023-04-22,Miami Marlins,6,1,Cleveland Guardians
+718488,2023-04-22,Miami Marlins,3,2,Cleveland Guardians
+718478,2023-04-22,New York Mets,4,7,San Francisco Giants
+718477,2023-04-22,Chicago White Sox,3,4,Tampa Bay Rays
+718474,2023-04-22,Cincinnati Reds,1,2,Pittsburgh Pirates
+718472,2023-04-22,Detroit Tigers,1,5,Baltimore Orioles
+718469,2023-04-22,Oakland Athletics,3,18,Texas Rangers
+718470,2023-04-22,Boston Red Sox,4,5,Milwaukee Brewers
+718471,2023-04-22,Houston Astros,6,3,Atlanta Braves
+718467,2023-04-22,San Diego Padres,5,3,Arizona Diamondbacks
+718466,2023-04-22,Kansas City Royals,11,8,Los Angeles Angels
+718464,2023-04-22,St. Louis Cardinals,4,5,Seattle Mariners
+718458,2023-04-23,Colorado Rockies,3,9,Philadelphia Phillies
+718459,2023-04-23,Detroit Tigers,1,2,Baltimore Orioles
+718463,2023-04-23,Cincinnati Reds,0,2,Pittsburgh Pirates
+718462,2023-04-23,Houston Astros,5,2,Atlanta Braves
+718465,2023-04-23,Toronto Blue Jays,5,1,New York Yankees
+718457,2023-04-23,Chicago White Sox,1,4,Tampa Bay Rays
+718460,2023-04-23,Miami Marlins,4,7,Cleveland Guardians
+718454,2023-04-23,Washington Nationals,1,3,Minnesota Twins
+718461,2023-04-23,Boston Red Sox,12,5,Milwaukee Brewers
+718451,2023-04-23,Los Angeles Dodgers,7,3,Chicago Cubs
+718453,2023-04-23,Oakland Athletics,2,5,Texas Rangers
+718452,2023-04-23,Kansas City Royals,3,4,Los Angeles Angels
+718456,2023-04-23,San Diego Padres,7,5,Arizona Diamondbacks
+718450,2023-04-23,St. Louis Cardinals,7,3,Seattle Mariners
+718455,2023-04-23,New York Mets,4,5,San Francisco Giants
+718448,2023-04-24,Colorado Rockies,6,0,Cleveland Guardians
+718447,2023-04-24,Boston Red Sox,4,5,Baltimore Orioles
+718449,2023-04-24,Houston Astros,3,8,Tampa Bay Rays
+718445,2023-04-24,Texas Rangers,6,7,Cincinnati Reds
+718444,2023-04-24,Chicago White Sox,2,5,Toronto Blue Jays
+718443,2023-04-24,Miami Marlins,0,11,Atlanta Braves
+718442,2023-04-24,New York Yankees,1,6,Minnesota Twins
+718441,2023-04-24,Detroit Tigers,4,2,Milwaukee Brewers
+718437,2023-04-24,Oakland Athletics,11,10,Los Angeles Angels
+718438,2023-04-24,Kansas City Royals,4,5,Arizona Diamondbacks
+718446,2023-04-24,St. Louis Cardinals,0,4,San Francisco Giants
+718440,2023-04-25,Colorado Rockies,5,1,Cleveland Guardians
+718435,2023-04-25,Boston Red Sox,8,6,Baltimore Orioles
+718432,2023-04-25,Los Angeles Dodgers,8,7,Pittsburgh Pirates
+718436,2023-04-25,Houston Astros,5,0,Tampa Bay Rays
+718434,2023-04-25,Texas Rangers,6,7,Cincinnati Reds
+718430,2023-04-25,Seattle Mariners,5,3,Philadelphia Phillies
+718433,2023-04-25,Chicago White Sox,0,7,Toronto Blue Jays
+718431,2023-04-25,Washington Nationals,5,0,New York Mets
+718429,2023-04-25,Miami Marlins,4,7,Atlanta Braves
+718426,2023-04-25,San Diego Padres,0,6,Chicago Cubs
+718427,2023-04-25,New York Yankees,2,6,Minnesota Twins
+718428,2023-04-25,Detroit Tigers,4,3,Milwaukee Brewers
+718425,2023-04-25,Oakland Athletics,3,5,Los Angeles Angels
+718422,2023-04-25,Kansas City Royals,5,4,Arizona Diamondbacks
+718439,2023-04-25,St. Louis Cardinals,4,5,San Francisco Giants
+718424,2023-04-26,Texas Rangers,3,5,Cincinnati Reds
+718416,2023-04-26,Boston Red Sox,2,6,Baltimore Orioles
+718420,2023-04-26,Chicago White Sox,0,8,Toronto Blue Jays
+718421,2023-04-26,Colorado Rockies,1,4,Cleveland Guardians
+718417,2023-04-26,New York Yankees,12,6,Minnesota Twins
+718419,2023-04-26,Detroit Tigers,2,6,Milwaukee Brewers
+718418,2023-04-26,Kansas City Royals,0,2,Arizona Diamondbacks
+718413,2023-04-26,Los Angeles Dodgers,1,8,Pittsburgh Pirates
+718414,2023-04-26,Houston Astros,1,0,Tampa Bay Rays
+718415,2023-04-26,Seattle Mariners,5,6,Philadelphia Phillies
+718412,2023-04-26,Washington Nationals,4,1,New York Mets
+718411,2023-04-26,Miami Marlins,4,6,Atlanta Braves
+718407,2023-04-26,San Diego Padres,5,3,Chicago Cubs
+718408,2023-04-26,Oakland Athletics,3,11,Los Angeles Angels
+718423,2023-04-26,St. Louis Cardinals,3,7,San Francisco Giants
+718410,2023-04-27,Miami Marlins,5,4,Atlanta Braves
+718403,2023-04-27,Los Angeles Dodgers,2,6,Pittsburgh Pirates
+718404,2023-04-27,Seattle Mariners,0,1,Philadelphia Phillies
+718406,2023-04-27,San Diego Padres,2,5,Chicago Cubs
+718409,2023-04-27,St. Louis Cardinals,6,0,San Francisco Giants
+718402,2023-04-27,Oakland Athletics,7,8,Los Angeles Angels
+718405,2023-04-27,Baltimore Orioles,7,4,Detroit Tigers
+718398,2023-04-27,Washington Nationals,8,9,New York Mets
+718396,2023-04-27,Tampa Bay Rays,14,5,Chicago White Sox
+718400,2023-04-27,Kansas City Royals,1,7,Minnesota Twins
+718397,2023-04-27,New York Yankees,4,2,Texas Rangers
+718387,2023-04-28,Kansas City Royals,6,8,Minnesota Twins
+718391,2023-04-28,Chicago Cubs,2,3,Miami Marlins
+718392,2023-04-28,Seattle Mariners,2,3,Toronto Blue Jays
+718395,2023-04-28,Cleveland Guardians,5,2,Boston Red Sox
+718393,2023-04-28,Tampa Bay Rays,3,2,Chicago White Sox
+718388,2023-04-28,New York Yankees,2,5,Texas Rangers
+718389,2023-04-28,Philadelphia Phillies,3,1,Houston Astros
+718386,2023-04-28,Los Angeles Angels,1,2,Milwaukee Brewers
+718390,2023-04-28,Arizona Diamondbacks,9,1,Colorado Rockies
+718380,2023-04-28,Cincinnati Reds,11,7,Oakland Athletics
+718382,2023-04-28,St. Louis Cardinals,3,7,Los Angeles Dodgers
+718381,2023-04-29,Baltimore Orioles,4,7,Detroit Tigers
+718401,2023-04-29,Baltimore Orioles,6,4,Detroit Tigers
+718383,2023-04-29,Pittsburgh Pirates,6,3,Washington Nationals
+718399,2023-04-29,Pittsburgh Pirates,16,1,Washington Nationals
+718378,2023-04-29,Kansas City Royals,3,2,Minnesota Twins
+718379,2023-04-29,Seattle Mariners,0,1,Toronto Blue Jays
+718375,2023-04-29,Chicago Cubs,6,7,Miami Marlins
+718377,2023-04-29,Cincinnati Reds,3,2,Oakland Athletics
+718385,2023-04-29,Cleveland Guardians,7,8,Boston Red Sox
+718372,2023-04-29,Philadelphia Phillies,6,1,Houston Astros
+718384,2023-04-29,San Francisco Giants,11,16,San Diego Padres
+718374,2023-04-29,New York Yankees,0,2,Texas Rangers
+718373,2023-04-29,Tampa Bay Rays,12,3,Chicago White Sox
+718376,2023-04-29,Los Angeles Angels,5,7,Milwaukee Brewers
+718366,2023-04-29,Arizona Diamondbacks,11,4,Colorado Rockies
+718369,2023-04-29,St. Louis Cardinals,0,1,Los Angeles Dodgers
+718364,2023-04-30,Chicago Cubs,3,4,Miami Marlins
+718370,2023-04-30,Cleveland Guardians,1,7,Boston Red Sox
+718367,2023-04-30,Pittsburgh Pirates,2,7,Washington Nationals
+718363,2023-04-30,Seattle Mariners,10,8,Toronto Blue Jays
+718360,2023-04-30,Baltimore Orioles,5,3,Detroit Tigers
+718362,2023-04-30,Kansas City Royals,4,8,Minnesota Twins
+718355,2023-04-30,Tampa Bay Rays,9,12,Chicago White Sox
+718365,2023-04-30,Los Angeles Angels,3,0,Milwaukee Brewers
+718356,2023-04-30,New York Yankees,2,15,Texas Rangers
+718358,2023-04-30,Arizona Diamondbacks,4,12,Colorado Rockies
+718368,2023-04-30,San Francisco Giants,4,6,San Diego Padres
+718357,2023-04-30,Cincinnati Reds,4,5,Oakland Athletics
+718359,2023-04-30,St. Louis Cardinals,3,6,Los Angeles Dodgers
+718354,2023-04-30,Philadelphia Phillies,3,4,Houston Astros
+718352,2023-05-01,Atlanta Braves,9,8,New York Mets
+718361,2023-05-01,Atlanta Braves,3,5,New York Mets
+718349,2023-05-01,Chicago Cubs,5,1,Washington Nationals
+718351,2023-05-01,Cleveland Guardians,3,2,New York Yankees
+718353,2023-05-01,Toronto Blue Jays,5,6,Boston Red Sox
+718350,2023-05-01,San Francisco Giants,3,7,Houston Astros
+718345,2023-05-01,Cincinnati Reds,3,8,San Diego Padres
+718343,2023-05-01,Philadelphia Phillies,4,13,Los Angeles Dodgers
+718347,2023-05-02,Pittsburgh Pirates,1,4,Tampa Bay Rays
+718346,2023-05-02,Atlanta Braves,6,0,Miami Marlins
+718344,2023-05-02,Chicago Cubs,1,4,Washington Nationals
+718339,2023-05-02,Cleveland Guardians,2,4,New York Yankees
+718341,2023-05-02,Toronto Blue Jays,6,7,Boston Red Sox
+718340,2023-05-02,Minnesota Twins,2,3,Chicago White Sox
+718336,2023-05-02,Baltimore Orioles,11,7,Kansas City Royals
+718338,2023-05-02,Los Angeles Angels,5,1,St. Louis Cardinals
+718342,2023-05-02,Arizona Diamondbacks,4,6,Texas Rangers
+718337,2023-05-02,San Francisco Giants,2,0,Houston Astros
+718334,2023-05-02,Milwaukee Brewers,2,3,Colorado Rockies
+718335,2023-05-02,Cincinnati Reds,2,1,San Diego Padres
+718332,2023-05-02,Seattle Mariners,2,1,Oakland Athletics
+718331,2023-05-02,Philadelphia Phillies,1,13,Los Angeles Dodgers
+718348,2023-05-03,New York Mets,5,6,Detroit Tigers
+718329,2023-05-03,New York Mets,1,8,Detroit Tigers
+718325,2023-05-03,Arizona Diamondbacks,12,7,Texas Rangers
+718326,2023-05-03,San Francisco Giants,4,2,Houston Astros
+718330,2023-05-03,Cincinnati Reds,1,7,San Diego Padres
+718327,2023-05-03,Philadelphia Phillies,6,10,Los Angeles Dodgers
+718328,2023-05-03,Pittsburgh Pirates,1,8,Tampa Bay Rays
+718321,2023-05-03,Atlanta Braves,14,6,Miami Marlins
+718333,2023-05-03,Chicago Cubs,1,2,Washington Nationals
+718324,2023-05-03,Cleveland Guardians,3,4,New York Yankees
+718323,2023-05-03,Toronto Blue Jays,3,8,Boston Red Sox
+718322,2023-05-03,Minnesota Twins,4,6,Chicago White Sox
+718314,2023-05-03,Baltimore Orioles,0,6,Kansas City Royals
+718320,2023-05-03,Los Angeles Angels,6,4,St. Louis Cardinals
+718315,2023-05-03,Milwaukee Brewers,1,7,Colorado Rockies
+718319,2023-05-03,Seattle Mariners,7,2,Oakland Athletics
+718317,2023-05-04,Chicago Cubs,3,4,Washington Nationals
+718318,2023-05-04,New York Mets,0,2,Detroit Tigers
+718309,2023-05-04,Pittsburgh Pirates,2,3,Tampa Bay Rays
+718311,2023-05-04,Los Angeles Angels,11,7,St. Louis Cardinals
+718312,2023-05-04,Baltimore Orioles,13,10,Kansas City Royals
+718310,2023-05-04,Minnesota Twins,7,3,Chicago White Sox
+718313,2023-05-04,Milwaukee Brewers,6,9,Colorado Rockies
+718304,2023-05-04,Seattle Mariners,5,3,Oakland Athletics
+718308,2023-05-04,Atlanta Braves,6,3,Miami Marlins
+718316,2023-05-04,Toronto Blue Jays,5,11,Boston Red Sox
+718303,2023-05-05,Miami Marlins,1,4,Chicago Cubs
+718307,2023-05-05,Toronto Blue Jays,4,0,Pittsburgh Pirates
+718305,2023-05-05,Chicago White Sox,5,4,Cincinnati Reds
+718300,2023-05-05,New York Yankees,4,5,Tampa Bay Rays
+718301,2023-05-05,Boston Red Sox,5,3,Philadelphia Phillies
+718302,2023-05-05,Colorado Rockies,0,1,New York Mets
+718306,2023-05-05,Minnesota Twins,2,0,Cleveland Guardians
+718298,2023-05-05,Baltimore Orioles,9,4,Atlanta Braves
+718299,2023-05-05,Oakland Athletics,12,8,Kansas City Royals
+718292,2023-05-05,Detroit Tigers,5,4,St. Louis Cardinals
+718294,2023-05-05,Texas Rangers,4,5,Los Angeles Angels
+718296,2023-05-05,Washington Nationals,1,3,Arizona Diamondbacks
+718295,2023-05-05,Los Angeles Dodgers,2,5,San Diego Padres
+718297,2023-05-05,Houston Astros,6,4,Seattle Mariners
+718293,2023-05-05,Milwaukee Brewers,4,6,San Francisco Giants
+718288,2023-05-06,Detroit Tigers,6,5,St. Louis Cardinals
+718289,2023-05-06,Miami Marlins,2,4,Chicago Cubs
+718290,2023-05-06,Colorado Rockies,5,2,New York Mets
+718291,2023-05-06,New York Yankees,3,2,Tampa Bay Rays
+718285,2023-05-06,Minnesota Twins,3,4,Cleveland Guardians
+718286,2023-05-06,Toronto Blue Jays,8,2,Pittsburgh Pirates
+718281,2023-05-06,Chicago White Sox,3,5,Cincinnati Reds
+718280,2023-05-06,Oakland Athletics,5,4,Kansas City Royals
+718284,2023-05-06,Boston Red Sox,7,4,Philadelphia Phillies
+718283,2023-05-06,Baltimore Orioles,4,5,Atlanta Braves
+718287,2023-05-06,Milwaukee Brewers,1,4,San Francisco Giants
+718282,2023-05-06,Washington Nationals,7,8,Arizona Diamondbacks
+718279,2023-05-06,Los Angeles Dodgers,2,1,San Diego Padres
+718275,2023-05-06,Texas Rangers,10,1,Los Angeles Angels
+718274,2023-05-06,Houston Astros,5,7,Seattle Mariners
+718277,2023-05-07,Baltimore Orioles,2,3,Atlanta Braves
+718278,2023-05-07,Toronto Blue Jays,10,1,Pittsburgh Pirates
+718270,2023-05-07,Boston Red Sox,1,6,Philadelphia Phillies
+718276,2023-05-07,Colorado Rockies,13,6,New York Mets
+718273,2023-05-07,Minnesota Twins,0,2,Cleveland Guardians
+718271,2023-05-07,New York Yankees,7,8,Tampa Bay Rays
+718268,2023-05-07,Oakland Athletics,1,5,Kansas City Royals
+718272,2023-05-07,Detroit Tigers,6,12,St. Louis Cardinals
+718269,2023-05-07,Miami Marlins,5,4,Chicago Cubs
+718267,2023-05-07,Milwaukee Brewers,7,3,San Francisco Giants
+718264,2023-05-07,Texas Rangers,16,8,Los Angeles Angels
+718263,2023-05-07,Washington Nationals,9,8,Arizona Diamondbacks
+718265,2023-05-07,Houston Astros,1,3,Seattle Mariners
+718262,2023-05-07,Chicago White Sox,17,4,Cincinnati Reds
+718266,2023-05-07,Los Angeles Dodgers,5,2,San Diego Padres
+718261,2023-05-08,Detroit Tigers,6,2,Cleveland Guardians
+718258,2023-05-08,Colorado Rockies,0,2,Pittsburgh Pirates
+718259,2023-05-08,Tampa Bay Rays,3,0,Baltimore Orioles
+718255,2023-05-08,Oakland Athletics,2,7,New York Yankees
+718256,2023-05-08,St. Louis Cardinals,3,1,Chicago Cubs
+718253,2023-05-08,Chicago White Sox,5,12,Kansas City Royals
+718257,2023-05-08,Los Angeles Dodgers,3,9,Milwaukee Brewers
+718254,2023-05-08,Houston Astros,4,6,Los Angeles Angels
+718251,2023-05-08,Texas Rangers,2,1,Seattle Mariners
+718249,2023-05-08,Miami Marlins,2,5,Arizona Diamondbacks
+718260,2023-05-08,Washington Nationals,5,1,San Francisco Giants
+718248,2023-05-09,Detroit Tigers,0,2,Cleveland Guardians
+718252,2023-05-09,Colorado Rockies,10,1,Pittsburgh Pirates
+718246,2023-05-09,Tampa Bay Rays,2,4,Baltimore Orioles
+718243,2023-05-09,New York Mets,6,7,Cincinnati Reds
+718244,2023-05-09,Toronto Blue Jays,4,8,Philadelphia Phillies
+718247,2023-05-09,Oakland Athletics,5,10,New York Yankees
+718245,2023-05-09,Boston Red Sox,3,9,Atlanta Braves
+718240,2023-05-09,St. Louis Cardinals,6,4,Chicago Cubs
+718242,2023-05-09,San Diego Padres,6,1,Minnesota Twins
+718238,2023-05-09,Chicago White Sox,4,2,Kansas City Royals
+718241,2023-05-09,Los Angeles Dodgers,6,2,Milwaukee Brewers
+718237,2023-05-09,Houston Astros,3,1,Los Angeles Angels
+718239,2023-05-09,Texas Rangers,0,5,Seattle Mariners
+718236,2023-05-09,Miami Marlins,6,2,Arizona Diamondbacks
+718250,2023-05-09,Washington Nationals,1,4,San Francisco Giants
+718231,2023-05-10,Colorado Rockies,4,3,Pittsburgh Pirates
+718232,2023-05-10,Oakland Athletics,3,11,New York Yankees
+718234,2023-05-10,Detroit Tigers,5,0,Cleveland Guardians
+718228,2023-05-10,Los Angeles Dodgers,8,1,Milwaukee Brewers
+718229,2023-05-10,Texas Rangers,4,3,Seattle Mariners
+718226,2023-05-10,Miami Marlins,5,4,Arizona Diamondbacks
+718230,2023-05-10,Washington Nationals,11,6,San Francisco Giants
+718233,2023-05-10,Toronto Blue Jays,1,2,Philadelphia Phillies
+718235,2023-05-10,Houston Astros,5,4,Los Angeles Angels
+718227,2023-05-10,Tampa Bay Rays,1,2,Baltimore Orioles
+718225,2023-05-10,New York Mets,2,1,Cincinnati Reds
+718220,2023-05-10,Boston Red Sox,5,2,Atlanta Braves
+718221,2023-05-10,St. Louis Cardinals,4,10,Chicago Cubs
+718224,2023-05-10,San Diego Padres,3,4,Minnesota Twins
+718222,2023-05-10,Chicago White Sox,1,9,Kansas City Royals
+718223,2023-05-11,New York Mets,0,5,Cincinnati Reds
+718216,2023-05-11,San Diego Padres,3,5,Minnesota Twins
+718218,2023-05-11,Chicago White Sox,3,4,Kansas City Royals
+718219,2023-05-11,Tampa Bay Rays,8,2,New York Yankees
+718215,2023-05-11,San Francisco Giants,6,2,Arizona Diamondbacks
+718217,2023-05-11,Texas Rangers,4,0,Oakland Athletics
+718208,2023-05-12,Seattle Mariners,9,2,Detroit Tigers
+718212,2023-05-12,Cincinnati Reds,7,4,Miami Marlins
+718214,2023-05-12,New York Mets,3,2,Washington Nationals
+718213,2023-05-12,Pittsburgh Pirates,3,6,Baltimore Orioles
+718210,2023-05-12,Tampa Bay Rays,5,6,New York Yankees
+718206,2023-05-12,Atlanta Braves,0,3,Toronto Blue Jays
+718205,2023-05-12,Los Angeles Angels,5,4,Cleveland Guardians
+718211,2023-05-12,St. Louis Cardinals,8,6,Boston Red Sox
+718209,2023-05-12,Chicago Cubs,6,2,Minnesota Twins
+718207,2023-05-12,Houston Astros,5,1,Chicago White Sox
+718204,2023-05-12,Kansas City Royals,1,5,Milwaukee Brewers
+718202,2023-05-12,Philadelphia Phillies,6,3,Colorado Rockies
+718199,2023-05-12,San Francisco Giants,5,7,Arizona Diamondbacks
+718200,2023-05-12,Texas Rangers,7,9,Oakland Athletics
+718201,2023-05-12,San Diego Padres,2,4,Los Angeles Dodgers
+718197,2023-05-13,Tampa Bay Rays,8,9,New York Yankees
+718194,2023-05-13,Seattle Mariners,5,0,Detroit Tigers
+718198,2023-05-13,Cincinnati Reds,6,5,Miami Marlins
+718195,2023-05-13,Chicago Cubs,1,11,Minnesota Twins
+718192,2023-05-13,Atlanta Braves,2,5,Toronto Blue Jays
+718203,2023-05-13,New York Mets,2,3,Washington Nationals
+718190,2023-05-13,Texas Rangers,5,0,Oakland Athletics
+718196,2023-05-13,St. Louis Cardinals,4,3,Boston Red Sox
+718191,2023-05-13,Los Angeles Angels,6,8,Cleveland Guardians
+718193,2023-05-13,Pittsburgh Pirates,0,2,Baltimore Orioles
+718183,2023-05-13,Kansas City Royals,3,4,Milwaukee Brewers
+718185,2023-05-13,San Diego Padres,2,4,Los Angeles Dodgers
+718189,2023-05-13,Houston Astros,1,3,Chicago White Sox
+718184,2023-05-13,San Francisco Giants,2,7,Arizona Diamondbacks
+718188,2023-05-13,Philadelphia Phillies,7,4,Colorado Rockies
+718182,2023-05-14,Los Angeles Angels,3,4,Cleveland Guardians
+718203,2023-05-13,New York Mets,2,3,Washington Nationals
+718179,2023-05-14,Pittsburgh Pirates,4,0,Baltimore Orioles
+718180,2023-05-14,Tampa Bay Rays,8,7,New York Yankees
+718181,2023-05-14,Atlanta Braves,5,6,Toronto Blue Jays
+718173,2023-05-14,Seattle Mariners,3,5,Detroit Tigers
+718178,2023-05-14,Cincinnati Reds,1,3,Miami Marlins
+718175,2023-05-14,Chicago Cubs,3,16,Minnesota Twins
+718176,2023-05-14,Houston Astros,4,3,Chicago White Sox
+718177,2023-05-14,Kansas City Royals,6,9,Milwaukee Brewers
+718174,2023-05-14,Philadelphia Phillies,0,4,Colorado Rockies
+718172,2023-05-14,Texas Rangers,11,3,Oakland Athletics
+718168,2023-05-14,San Diego Padres,0,4,Los Angeles Dodgers
+718169,2023-05-14,San Francisco Giants,1,2,Arizona Diamondbacks
+718186,2023-05-14,New York Mets,8,2,Washington Nationals
+718187,2023-05-14,St. Louis Cardinals,9,1,Boston Red Sox
+718167,2023-05-15,New York Mets,3,10,Washington Nationals
+718171,2023-05-15,Los Angeles Angels,9,5,Baltimore Orioles
+718164,2023-05-15,New York Yankees,7,4,Toronto Blue Jays
+718163,2023-05-15,Seattle Mariners,10,1,Boston Red Sox
+718166,2023-05-15,Milwaukee Brewers,1,18,St. Louis Cardinals
+718165,2023-05-15,Atlanta Braves,12,0,Texas Rangers
+718158,2023-05-15,Chicago Cubs,4,6,Houston Astros
+718161,2023-05-15,Cincinnati Reds,8,9,Colorado Rockies
+718160,2023-05-15,Arizona Diamondbacks,5,2,Oakland Athletics
+718162,2023-05-15,Kansas City Royals,0,4,San Diego Padres
+718170,2023-05-15,Philadelphia Phillies,3,6,San Francisco Giants
+718159,2023-05-15,Minnesota Twins,8,9,Los Angeles Dodgers
+718154,2023-05-16,Los Angeles Angels,3,7,Baltimore Orioles
+718155,2023-05-16,Pittsburgh Pirates,0,4,Detroit Tigers
+718153,2023-05-16,Washington Nationals,4,5,Miami Marlins
+718157,2023-05-16,New York Yankees,6,3,Toronto Blue Jays
+718149,2023-05-16,Seattle Mariners,4,9,Boston Red Sox
+718150,2023-05-16,Tampa Bay Rays,8,5,New York Mets
+718151,2023-05-16,Milwaukee Brewers,3,2,St. Louis Cardinals
+718148,2023-05-16,Atlanta Braves,4,7,Texas Rangers
+718152,2023-05-16,Chicago Cubs,3,7,Houston Astros
+718147,2023-05-16,Cleveland Guardians,3,8,Chicago White Sox
+718145,2023-05-16,Cincinnati Reds,3,1,Colorado Rockies
+718146,2023-05-16,Arizona Diamondbacks,8,9,Oakland Athletics
+718144,2023-05-16,Kansas City Royals,5,4,San Diego Padres
+718156,2023-05-16,Philadelphia Phillies,3,4,San Francisco Giants
+718141,2023-05-16,Minnesota Twins,5,1,Los Angeles Dodgers
+718142,2023-05-17,Pittsburgh Pirates,8,0,Detroit Tigers
+718138,2023-05-17,Cincinnati Reds,6,11,Colorado Rockies
+718136,2023-05-17,Minnesota Twins,3,7,Los Angeles Dodgers
+718139,2023-05-17,Arizona Diamondbacks,5,3,Oakland Athletics
+718143,2023-05-17,Philadelphia Phillies,4,7,San Francisco Giants
+718140,2023-05-17,Kansas City Royals,4,3,San Diego Padres
+718137,2023-05-17,Los Angeles Angels,1,3,Baltimore Orioles
+718132,2023-05-17,Washington Nationals,3,4,Miami Marlins
+718134,2023-05-17,New York Yankees,0,3,Toronto Blue Jays
+718133,2023-05-17,Seattle Mariners,3,12,Boston Red Sox
+718135,2023-05-17,Tampa Bay Rays,7,8,New York Mets
+718131,2023-05-17,Milwaukee Brewers,0,3,St. Louis Cardinals
+718126,2023-05-17,Atlanta Braves,6,5,Texas Rangers
+718127,2023-05-17,Chicago Cubs,6,7,Houston Astros
+718129,2023-05-17,Cleveland Guardians,2,7,Chicago White Sox
+718128,2023-05-18,Los Angeles Angels,6,5,Baltimore Orioles
+718122,2023-05-18,Tampa Bay Rays,2,3,New York Mets
+718130,2023-05-18,Washington Nationals,3,5,Miami Marlins
+718125,2023-05-18,Cleveland Guardians,3,1,Chicago White Sox
+718121,2023-05-18,New York Yankees,4,2,Toronto Blue Jays
+718124,2023-05-18,Los Angeles Dodgers,8,16,St. Louis Cardinals
+718118,2023-05-19,Arizona Diamondbacks,3,13,Pittsburgh Pirates
+718120,2023-05-19,New York Yankees,6,2,Cincinnati Reds
+718117,2023-05-19,Milwaukee Brewers,0,1,Tampa Bay Rays
+718123,2023-05-19,Detroit Tigers,8,6,Washington Nationals
+718116,2023-05-19,Chicago Cubs,10,1,Philadelphia Phillies
+718115,2023-05-19,Baltimore Orioles,6,2,Toronto Blue Jays
+718119,2023-05-19,Cleveland Guardians,9,10,New York Mets
+718110,2023-05-19,Seattle Mariners,2,6,Atlanta Braves
+718114,2023-05-19,Colorado Rockies,2,7,Texas Rangers
+718112,2023-05-19,Oakland Athletics,1,5,Houston Astros
+718111,2023-05-19,Kansas City Royals,0,2,Chicago White Sox
+718113,2023-05-19,Los Angeles Dodgers,5,0,St. Louis Cardinals
+718106,2023-05-19,Minnesota Twins,4,5,Los Angeles Angels
+718107,2023-05-19,Boston Red Sox,6,1,San Diego Padres
+718105,2023-05-19,Miami Marlins,3,4,San Francisco Giants
+718104,2023-05-20,Kansas City Royals,1,5,Chicago White Sox
+718102,2023-05-20,Baltimore Orioles,6,5,Toronto Blue Jays
+718108,2023-05-20,Detroit Tigers,2,5,Washington Nationals
+718101,2023-05-20,Arizona Diamondbacks,4,3,Pittsburgh Pirates
+718100,2023-05-20,Colorado Rockies,5,11,Texas Rangers
+718097,2023-05-20,Chicago Cubs,3,12,Philadelphia Phillies
+718103,2023-05-20,Miami Marlins,1,0,San Francisco Giants
+718098,2023-05-20,Oakland Athletics,2,3,Houston Astros
+718095,2023-05-20,New York Yankees,7,4,Cincinnati Reds
+718093,2023-05-20,Milwaukee Brewers,4,8,Tampa Bay Rays
+718109,2023-05-20,Los Angeles Dodgers,5,6,St. Louis Cardinals
+718094,2023-05-20,Seattle Mariners,7,3,Atlanta Braves
+718096,2023-05-20,Minnesota Twins,6,2,Los Angeles Angels
+718092,2023-05-20,Boston Red Sox,4,2,San Diego Padres
+718085,2023-05-21,New York Yankees,4,1,Cincinnati Reds
+718089,2023-05-21,Detroit Tigers,4,6,Washington Nationals
+718091,2023-05-21,Arizona Diamondbacks,8,3,Pittsburgh Pirates
+718088,2023-05-21,Chicago Cubs,1,2,Philadelphia Phillies
+718090,2023-05-21,Seattle Mariners,2,3,Atlanta Braves
+718087,2023-05-21,Baltimore Orioles,8,3,Toronto Blue Jays
+718099,2023-05-21,Cleveland Guardians,4,5,New York Mets
+718082,2023-05-21,Cleveland Guardians,1,2,New York Mets
+718081,2023-05-21,Milwaukee Brewers,6,4,Tampa Bay Rays
+718086,2023-05-21,Oakland Athletics,0,2,Houston Astros
+718084,2023-05-21,Kansas City Royals,2,5,Chicago White Sox
+718083,2023-05-21,Los Angeles Dodgers,5,10,St. Louis Cardinals
+718076,2023-05-21,Colorado Rockies,3,13,Texas Rangers
+718078,2023-05-21,Miami Marlins,5,7,San Francisco Giants
+718080,2023-05-21,Minnesota Twins,2,4,Los Angeles Angels
+718079,2023-05-21,Boston Red Sox,0,7,San Diego Padres
+718072,2023-05-22,Chicago White Sox,0,3,Cleveland Guardians
+718075,2023-05-22,Texas Rangers,4,6,Pittsburgh Pirates
+718071,2023-05-22,St. Louis Cardinals,5,6,Cincinnati Reds
+718077,2023-05-22,Toronto Blue Jays,4,6,Tampa Bay Rays
+718073,2023-05-22,Arizona Diamondbacks,6,3,Philadelphia Phillies
+718074,2023-05-22,Los Angeles Dodgers,8,6,Atlanta Braves
+718066,2023-05-22,Detroit Tigers,8,5,Kansas City Royals
+718067,2023-05-22,San Francisco Giants,4,1,Minnesota Twins
+718068,2023-05-22,Houston Astros,12,2,Milwaukee Brewers
+718069,2023-05-22,Miami Marlins,3,5,Colorado Rockies
+718070,2023-05-22,Boston Red Sox,1,2,Los Angeles Angels
+718062,2023-05-22,Oakland Athletics,2,11,Seattle Mariners
+718063,2023-05-23,Chicago White Sox,4,2,Cleveland Guardians
+718065,2023-05-23,Texas Rangers,6,1,Pittsburgh Pirates
+718059,2023-05-23,St. Louis Cardinals,8,5,Cincinnati Reds
+718061,2023-05-23,Toronto Blue Jays,20,1,Tampa Bay Rays
+718060,2023-05-23,Arizona Diamondbacks,4,3,Philadelphia Phillies
+718064,2023-05-23,San Diego Padres,7,4,Washington Nationals
+718058,2023-05-23,Baltimore Orioles,5,6,New York Yankees
+718057,2023-05-23,Los Angeles Dodgers,8,1,Atlanta Braves
+718049,2023-05-23,Detroit Tigers,1,4,Kansas City Royals
+718055,2023-05-23,New York Mets,2,7,Chicago Cubs
+718054,2023-05-23,San Francisco Giants,4,3,Minnesota Twins
+718056,2023-05-23,Houston Astros,0,6,Milwaukee Brewers
+718051,2023-05-23,Miami Marlins,4,5,Colorado Rockies
+718053,2023-05-23,Boston Red Sox,0,4,Los Angeles Angels
+718050,2023-05-23,Oakland Athletics,2,3,Seattle Mariners
+718045,2023-05-24,Texas Rangers,3,2,Pittsburgh Pirates
+718043,2023-05-24,Arizona Diamondbacks,5,6,Philadelphia Phillies
+718047,2023-05-24,San Francisco Giants,1,7,Minnesota Twins
+718048,2023-05-24,Chicago White Sox,6,0,Cleveland Guardians
+718046,2023-05-24,Houston Astros,0,4,Milwaukee Brewers
+718041,2023-05-24,St. Louis Cardinals,3,10,Cincinnati Reds
+718044,2023-05-24,Toronto Blue Jays,3,7,Tampa Bay Rays
+718052,2023-05-24,San Diego Padres,3,5,Washington Nationals
+718040,2023-05-24,Baltimore Orioles,9,6,New York Yankees
+718042,2023-05-24,Los Angeles Dodgers,3,4,Atlanta Braves
+718039,2023-05-24,Detroit Tigers,6,4,Kansas City Royals
+718038,2023-05-24,New York Mets,2,4,Chicago Cubs
+718036,2023-05-24,Miami Marlins,10,2,Colorado Rockies
+718034,2023-05-24,Boston Red Sox,3,7,Los Angeles Angels
+718037,2023-05-24,Oakland Athletics,1,6,Seattle Mariners
+718030,2023-05-25,St. Louis Cardinals,2,1,Cincinnati Reds
+718032,2023-05-25,Toronto Blue Jays,3,6,Tampa Bay Rays
+718033,2023-05-25,Miami Marlins,6,7,Colorado Rockies
+718035,2023-05-25,San Diego Padres,8,6,Washington Nationals
+718031,2023-05-25,Chicago White Sox,2,7,Detroit Tigers
+718029,2023-05-25,Baltimore Orioles,3,1,New York Yankees
+718026,2023-05-25,Philadelphia Phillies,5,8,Atlanta Braves
+718024,2023-05-25,New York Mets,10,1,Chicago Cubs
+718028,2023-05-25,San Francisco Giants,5,0,Milwaukee Brewers
+718025,2023-05-25,Oakland Athletics,2,3,Seattle Mariners
+718027,2023-05-26,Cincinnati Reds,9,0,Chicago Cubs
+718018,2023-05-26,Los Angeles Dodgers,3,9,Tampa Bay Rays
+718021,2023-05-26,Chicago White Sox,12,3,Detroit Tigers
+718020,2023-05-26,Texas Rangers,12,2,Baltimore Orioles
+718023,2023-05-26,San Diego Padres,5,1,New York Yankees
+718022,2023-05-26,St. Louis Cardinals,3,4,Cleveland Guardians
+718019,2023-05-26,Philadelphia Phillies,6,4,Atlanta Braves
+718014,2023-05-26,Washington Nationals,12,10,Kansas City Royals
+718013,2023-05-26,Toronto Blue Jays,3,1,Minnesota Twins
+718017,2023-05-26,San Francisco Giants,15,1,Milwaukee Brewers
+718016,2023-05-26,New York Mets,5,2,Colorado Rockies
+718015,2023-05-26,Miami Marlins,6,2,Los Angeles Angels
+718010,2023-05-26,Boston Red Sox,7,2,Arizona Diamondbacks
+718009,2023-05-26,Houston Astros,5,2,Oakland Athletics
+718012,2023-05-26,Pittsburgh Pirates,11,6,Seattle Mariners
+718006,2023-05-27,San Diego Padres,2,3,New York Yankees
+718005,2023-05-27,Chicago White Sox,3,7,Detroit Tigers
+718008,2023-05-27,Toronto Blue Jays,7,9,Minnesota Twins
+718001,2023-05-27,Texas Rangers,5,3,Baltimore Orioles
+718003,2023-05-27,Houston Astros,6,3,Oakland Athletics
+718000,2023-05-27,Washington Nationals,4,2,Kansas City Royals
+718004,2023-05-27,Pittsburgh Pirates,0,5,Seattle Mariners
+718002,2023-05-27,Los Angeles Dodgers,6,5,Tampa Bay Rays
+717997,2023-05-27,Philadelphia Phillies,2,1,Atlanta Braves
+717999,2023-05-27,San Francisco Giants,3,1,Milwaukee Brewers
+717991,2023-05-27,Boston Red Sox,2,1,Arizona Diamondbacks
+718007,2023-05-27,Cincinnati Reds,8,5,Chicago Cubs
+717996,2023-05-27,St. Louis Cardinals,2,1,Cleveland Guardians
+718011,2023-05-27,New York Mets,7,10,Colorado Rockies
+717998,2023-05-27,Miami Marlins,8,5,Los Angeles Angels
+717994,2023-05-28,Los Angeles Dodgers,10,11,Tampa Bay Rays
+717990,2023-05-28,Texas Rangers,2,3,Baltimore Orioles
+717995,2023-05-28,San Diego Padres,7,10,New York Yankees
+717993,2023-05-28,St. Louis Cardinals,3,4,Cleveland Guardians
+717989,2023-05-28,Chicago White Sox,5,6,Detroit Tigers
+717985,2023-05-28,Washington Nationals,2,3,Kansas City Royals
+717988,2023-05-28,Toronto Blue Jays,3,0,Minnesota Twins
+717986,2023-05-28,San Francisco Giants,5,7,Milwaukee Brewers
+717987,2023-05-28,Cincinnati Reds,8,5,Chicago Cubs
+717982,2023-05-28,New York Mets,10,11,Colorado Rockies
+717980,2023-05-28,Houston Astros,10,1,Oakland Athletics
+717984,2023-05-28,Miami Marlins,2,0,Los Angeles Angels
+717981,2023-05-28,Boston Red Sox,2,4,Arizona Diamondbacks
+717983,2023-05-28,Pittsburgh Pirates,3,6,Seattle Mariners
+717992,2023-05-28,Philadelphia Phillies,4,11,Atlanta Braves
+717974,2023-05-29,Cleveland Guardians,5,0,Baltimore Orioles
+717979,2023-05-29,Texas Rangers,5,0,Detroit Tigers
+717975,2023-05-29,Kansas City Royals,7,0,St. Louis Cardinals
+717976,2023-05-29,Tampa Bay Rays,0,1,Chicago Cubs
+717977,2023-05-29,Colorado Rockies,5,7,Arizona Diamondbacks
+717968,2023-05-29,Minnesota Twins,7,5,Houston Astros
+717978,2023-05-29,Pittsburgh Pirates,4,14,San Francisco Giants
+717970,2023-05-29,Atlanta Braves,2,7,Oakland Athletics
+717971,2023-05-29,Los Angeles Angels,6,4,Chicago White Sox
+717973,2023-05-29,Washington Nationals,1,6,Los Angeles Dodgers
+717969,2023-05-29,New York Yankees,10,4,Seattle Mariners
+717964,2023-05-30,Texas Rangers,10,6,Detroit Tigers
+717963,2023-05-30,San Diego Padres,9,4,Miami Marlins
+717967,2023-05-30,Cleveland Guardians,5,8,Baltimore Orioles
+717965,2023-05-30,Milwaukee Brewers,2,7,Toronto Blue Jays
+717966,2023-05-30,Cincinnati Reds,9,8,Boston Red Sox
+717962,2023-05-30,Philadelphia Phillies,0,2,New York Mets
+717960,2023-05-30,Kansas City Royals,1,2,St. Louis Cardinals
+717961,2023-05-30,Tampa Bay Rays,1,2,Chicago Cubs
+717956,2023-05-30,Minnesota Twins,1,5,Houston Astros
+717959,2023-05-30,Los Angeles Angels,3,7,Chicago White Sox
+717955,2023-05-30,Colorado Rockies,1,5,Arizona Diamondbacks
+717958,2023-05-30,Atlanta Braves,1,2,Oakland Athletics
+717952,2023-05-30,New York Yankees,10,2,Seattle Mariners
+717972,2023-05-30,Pittsburgh Pirates,2,1,San Francisco Giants
+717957,2023-05-30,Washington Nationals,3,9,Los Angeles Dodgers
+717951,2023-05-31,Texas Rangers,2,3,Detroit Tigers
+717943,2023-05-31,Los Angeles Angels,12,5,Chicago White Sox
+717950,2023-05-31,Tampa Bay Rays,4,3,Chicago Cubs
+717946,2023-05-31,Cleveland Guardians,12,8,Baltimore Orioles
+717949,2023-05-31,Atlanta Braves,4,2,Oakland Athletics
+717953,2023-05-31,Pittsburgh Pirates,9,4,San Francisco Giants
+717954,2023-05-31,Washington Nationals,10,6,Los Angeles Dodgers
+717945,2023-05-31,San Diego Padres,1,2,Miami Marlins
+717947,2023-05-31,Milwaukee Brewers,4,2,Toronto Blue Jays
+717948,2023-05-31,Cincinnati Reds,5,4,Boston Red Sox
+717944,2023-05-31,Philadelphia Phillies,1,4,New York Mets
+717938,2023-05-31,Minnesota Twins,8,2,Houston Astros
+717940,2023-05-31,Colorado Rockies,0,6,Arizona Diamondbacks
+717939,2023-05-31,New York Yankees,0,1,Seattle Mariners
+717942,2023-06-01,Milwaukee Brewers,1,3,Toronto Blue Jays
+717934,2023-06-01,Philadelphia Phillies,2,4,New York Mets
+717941,2023-06-01,San Diego Padres,10,1,Miami Marlins
+717933,2023-06-01,Colorado Rockies,4,5,Arizona Diamondbacks
+717932,2023-06-01,Cincinnati Reds,2,8,Boston Red Sox
+717937,2023-06-01,Cleveland Guardians,6,7,Minnesota Twins
+717936,2023-06-01,Los Angeles Angels,2,5,Houston Astros
+717931,2023-06-02,Milwaukee Brewers,5,4,Cincinnati Reds
+717927,2023-06-02,Oakland Athletics,0,4,Miami Marlins
+717930,2023-06-02,St. Louis Cardinals,5,7,Pittsburgh Pirates
+717935,2023-06-02,Philadelphia Phillies,7,8,Washington Nationals
+717929,2023-06-02,Toronto Blue Jays,3,0,New York Mets
+717922,2023-06-02,Seattle Mariners,0,2,Texas Rangers
+717926,2023-06-02,Los Angeles Angels,2,6,Houston Astros
+717923,2023-06-02,Colorado Rockies,7,2,Kansas City Royals
+717924,2023-06-02,Cleveland Guardians,0,1,Minnesota Twins
+717925,2023-06-02,Detroit Tigers,0,3,Chicago White Sox
+717921,2023-06-02,Chicago Cubs,2,1,San Diego Padres
+717919,2023-06-02,Atlanta Braves,2,3,Arizona Diamondbacks
+717917,2023-06-02,New York Yankees,4,8,Los Angeles Dodgers
+717920,2023-06-02,Baltimore Orioles,3,2,San Francisco Giants
+717918,2023-06-03,Tampa Bay Rays,5,8,Boston Red Sox
+717885,2023-06-03,Tampa Bay Rays,4,2,Boston Red Sox
+717915,2023-06-03,Detroit Tigers,1,2,Chicago White Sox
+717907,2023-06-03,St. Louis Cardinals,3,4,Pittsburgh Pirates
+717912,2023-06-03,Seattle Mariners,6,16,Texas Rangers
+717914,2023-06-03,Philadelphia Phillies,4,2,Washington Nationals
+717908,2023-06-03,Los Angeles Angels,6,9,Houston Astros
+717909,2023-06-03,Colorado Rockies,6,4,Kansas City Royals
+717910,2023-06-03,Toronto Blue Jays,2,1,New York Mets
+717911,2023-06-03,Oakland Athletics,1,12,Miami Marlins
+717906,2023-06-03,Milwaukee Brewers,10,8,Cincinnati Reds
+717913,2023-06-03,Cleveland Guardians,4,2,Minnesota Twins
+717905,2023-06-03,New York Yankees,6,3,Los Angeles Dodgers
+717916,2023-06-03,Baltimore Orioles,0,4,San Francisco Giants
+717903,2023-06-03,Chicago Cubs,0,6,San Diego Padres
+717901,2023-06-03,Atlanta Braves,5,2,Arizona Diamondbacks
+717898,2023-06-04,St. Louis Cardinals,1,2,Pittsburgh Pirates
+717904,2023-06-04,Tampa Bay Rays,6,2,Boston Red Sox
+717902,2023-06-04,Philadelphia Phillies,11,3,Washington Nationals
+717900,2023-06-04,Toronto Blue Jays,6,4,New York Mets
+717896,2023-06-04,Oakland Athletics,5,7,Miami Marlins
+717897,2023-06-04,Milwaukee Brewers,5,1,Cincinnati Reds
+717899,2023-06-04,Los Angeles Angels,2,1,Houston Astros
+717893,2023-06-04,Colorado Rockies,0,2,Kansas City Royals
+717895,2023-06-04,Cleveland Guardians,2,1,Minnesota Twins
+717891,2023-06-04,Detroit Tigers,2,6,Chicago White Sox
+717894,2023-06-04,Seattle Mariners,3,12,Texas Rangers
+717890,2023-06-04,Baltimore Orioles,8,3,San Francisco Giants
+717892,2023-06-04,Atlanta Braves,8,5,Arizona Diamondbacks
+717889,2023-06-04,Chicago Cubs,7,1,San Diego Padres
+717888,2023-06-04,New York Yankees,4,1,Los Angeles Dodgers
+717928,2023-06-05,Tampa Bay Rays,4,1,Boston Red Sox
+717886,2023-06-05,Detroit Tigers,3,8,Philadelphia Phillies
+717887,2023-06-05,Kansas City Royals,6,9,Miami Marlins
+717884,2023-06-05,Oakland Athletics,4,5,Pittsburgh Pirates
+717878,2023-06-05,Houston Astros,11,4,Toronto Blue Jays
+717883,2023-06-05,Milwaukee Brewers,0,2,Cincinnati Reds
+717879,2023-06-05,St. Louis Cardinals,3,4,Texas Rangers
+717880,2023-06-05,Chicago Cubs,0,5,San Diego Padres
+717882,2023-06-06,Minnesota Twins,0,7,Tampa Bay Rays
+717875,2023-06-06,Detroit Tigers,0,1,Philadelphia Phillies
+717876,2023-06-06,Kansas City Royals,1,6,Miami Marlins
+717881,2023-06-06,Arizona Diamondbacks,10,5,Washington Nationals
+717874,2023-06-06,Oakland Athletics,11,2,Pittsburgh Pirates
+717877,2023-06-06,Chicago White Sox,3,2,New York Yankees
+717871,2023-06-06,Houston Astros,1,5,Toronto Blue Jays
+717873,2023-06-06,Boston Red Sox,5,4,Cleveland Guardians
+717870,2023-06-06,Los Angeles Dodgers,8,9,Cincinnati Reds
+717872,2023-06-06,New York Mets,4,6,Atlanta Braves
+717867,2023-06-06,Baltimore Orioles,3,4,Milwaukee Brewers
+717868,2023-06-06,St. Louis Cardinals,4,6,Texas Rangers
+717869,2023-06-06,San Francisco Giants,10,4,Colorado Rockies
+717861,2023-06-06,Chicago Cubs,4,7,Los Angeles Angels
+717864,2023-06-06,Seattle Mariners,4,1,San Diego Padres
+717865,2023-06-07,Oakland Athletics,9,5,Pittsburgh Pirates
+717863,2023-06-07,Seattle Mariners,3,10,San Diego Padres
+717860,2023-06-07,Kansas City Royals,1,6,Miami Marlins
+717859,2023-06-07,Minnesota Twins,1,2,Tampa Bay Rays
+717866,2023-06-07,Arizona Diamondbacks,6,2,Washington Nationals
+717856,2023-06-07,Houston Astros,2,3,Toronto Blue Jays
+717858,2023-06-07,Boston Red Sox,2,5,Cleveland Guardians
+717853,2023-06-07,Los Angeles Dodgers,6,8,Cincinnati Reds
+717850,2023-06-07,New York Mets,5,7,Atlanta Braves
+717851,2023-06-07,Baltimore Orioles,2,10,Milwaukee Brewers
+717854,2023-06-07,St. Louis Cardinals,1,0,Texas Rangers
+717852,2023-06-07,San Francisco Giants,5,4,Colorado Rockies
+717855,2023-06-07,Chicago Cubs,2,6,Los Angeles Angels
+717844,2023-06-08,Los Angeles Dodgers,6,0,Cincinnati Reds
+717845,2023-06-08,Minnesota Twins,2,4,Tampa Bay Rays
+717849,2023-06-08,Baltimore Orioles,6,3,Milwaukee Brewers
+717846,2023-06-08,San Francisco Giants,6,4,Colorado Rockies
+717848,2023-06-08,Chicago White Sox,6,5,New York Yankees
+717857,2023-06-08,Chicago White Sox,0,3,New York Yankees
+717862,2023-06-08,Detroit Tigers,2,3,Philadelphia Phillies
+717843,2023-06-08,Houston Astros,2,3,Toronto Blue Jays
+717842,2023-06-08,Boston Red Sox,3,10,Cleveland Guardians
+717840,2023-06-08,New York Mets,10,13,Atlanta Braves
+717838,2023-06-08,Chicago Cubs,1,3,Los Angeles Angels
+717834,2023-06-09,Arizona Diamondbacks,11,6,Detroit Tigers
+717827,2023-06-09,Texas Rangers,3,8,Tampa Bay Rays
+717839,2023-06-09,Kansas City Royals,2,3,Baltimore Orioles
+717836,2023-06-09,New York Mets,7,14,Pittsburgh Pirates
+717837,2023-06-09,Los Angeles Dodgers,4,5,Philadelphia Phillies
+717841,2023-06-09,Boston Red Sox,3,2,New York Yankees
+717835,2023-06-09,Minnesota Twins,3,2,Toronto Blue Jays
+717833,2023-06-09,Houston Astros,9,10,Cleveland Guardians
+717829,2023-06-09,Washington Nationals,2,3,Atlanta Braves
+717828,2023-06-09,Miami Marlins,1,2,Chicago White Sox
+717831,2023-06-09,Oakland Athletics,5,2,Milwaukee Brewers
+717832,2023-06-09,Cincinnati Reds,4,7,St. Louis Cardinals
+717830,2023-06-09,San Diego Padres,9,6,Colorado Rockies
+717824,2023-06-09,Seattle Mariners,4,5,Los Angeles Angels
+717823,2023-06-09,Chicago Cubs,3,2,San Francisco Giants
+717821,2023-06-10,Arizona Diamondbacks,5,0,Detroit Tigers
+717820,2023-06-10,Miami Marlins,5,1,Chicago White Sox
+717817,2023-06-10,Cincinnati Reds,8,4,St. Louis Cardinals
+717822,2023-06-10,Minnesota Twins,9,4,Toronto Blue Jays
+717819,2023-06-10,San Diego Padres,3,2,Colorado Rockies
+717818,2023-06-10,Kansas City Royals,1,6,Baltimore Orioles
+717812,2023-06-10,New York Mets,5,1,Pittsburgh Pirates
+717811,2023-06-10,Los Angeles Dodgers,9,0,Philadelphia Phillies
+717813,2023-06-10,Texas Rangers,8,4,Tampa Bay Rays
+717816,2023-06-10,Washington Nationals,4,6,Atlanta Braves
+717814,2023-06-10,Oakland Athletics,2,1,Milwaukee Brewers
+717815,2023-06-10,Houston Astros,6,4,Cleveland Guardians
+717826,2023-06-10,Chicago Cubs,4,0,San Francisco Giants
+717825,2023-06-10,Boston Red Sox,1,3,New York Yankees
+717809,2023-06-10,Seattle Mariners,6,2,Los Angeles Angels
+717804,2023-06-11,Arizona Diamondbacks,7,5,Detroit Tigers
+717802,2023-06-11,Houston Astros,0,5,Cleveland Guardians
+717808,2023-06-11,Kansas City Royals,3,11,Baltimore Orioles
+717803,2023-06-11,New York Mets,1,2,Pittsburgh Pirates
+717806,2023-06-11,Los Angeles Dodgers,3,7,Philadelphia Phillies
+717807,2023-06-11,Washington Nationals,6,2,Atlanta Braves
+717805,2023-06-11,Minnesota Twins,6,7,Toronto Blue Jays
+717801,2023-06-11,Texas Rangers,3,7,Tampa Bay Rays
+717795,2023-06-11,Miami Marlins,6,5,Chicago White Sox
+717800,2023-06-11,Oakland Athletics,8,6,Milwaukee Brewers
+717797,2023-06-11,Cincinnati Reds,4,3,St. Louis Cardinals
+717798,2023-06-11,San Diego Padres,4,5,Colorado Rockies
+717796,2023-06-11,Chicago Cubs,3,13,San Francisco Giants
+717799,2023-06-11,Seattle Mariners,4,9,Los Angeles Angels
+717810,2023-06-11,Boston Red Sox,3,2,New York Yankees
+717790,2023-06-12,Atlanta Braves,5,6,Detroit Tigers
+717794,2023-06-12,Colorado Rockies,4,3,Boston Red Sox
+717791,2023-06-12,San Francisco Giants,4,3,St. Louis Cardinals
+717792,2023-06-12,Los Angeles Angels,9,6,Texas Rangers
+717793,2023-06-12,Cincinnati Reds,5,4,Kansas City Royals
+717789,2023-06-12,Tampa Bay Rays,3,4,Oakland Athletics
+717785,2023-06-12,Philadelphia Phillies,8,9,Arizona Diamondbacks
+717786,2023-06-12,Miami Marlins,1,8,Seattle Mariners
+717787,2023-06-13,Toronto Blue Jays,6,11,Baltimore Orioles
+717788,2023-06-13,Colorado Rockies,7,6,Boston Red Sox
+717779,2023-06-13,New York Yankees,7,6,New York Mets
+717783,2023-06-13,Milwaukee Brewers,5,7,Minnesota Twins
+717781,2023-06-13,San Francisco Giants,11,3,St. Louis Cardinals
+717782,2023-06-13,Pittsburgh Pirates,3,11,Chicago Cubs
+717780,2023-06-13,Los Angeles Angels,7,3,Texas Rangers
+717777,2023-06-13,Cincinnati Reds,5,4,Kansas City Royals
+717778,2023-06-13,Washington Nationals,1,6,Houston Astros
+717772,2023-06-13,Cleveland Guardians,3,6,San Diego Padres
+717774,2023-06-13,Tampa Bay Rays,1,2,Oakland Athletics
+717775,2023-06-13,Philadelphia Phillies,15,3,Arizona Diamondbacks
+717773,2023-06-13,Miami Marlins,3,9,Seattle Mariners
+717776,2023-06-13,Chicago White Sox,1,5,Los Angeles Dodgers
+717770,2023-06-14,Atlanta Braves,10,7,Detroit Tigers
+717784,2023-06-14,Atlanta Braves,6,5,Detroit Tigers
+717771,2023-06-14,Milwaukee Brewers,2,4,Minnesota Twins
+717767,2023-06-14,San Francisco Giants,8,5,St. Louis Cardinals
+717769,2023-06-14,Toronto Blue Jays,3,1,Baltimore Orioles
+717768,2023-06-14,Colorado Rockies,3,6,Boston Red Sox
+717766,2023-06-14,New York Yankees,3,4,New York Mets
+717763,2023-06-14,Pittsburgh Pirates,6,10,Chicago Cubs
+717765,2023-06-14,Los Angeles Angels,3,6,Texas Rangers
+717764,2023-06-14,Cincinnati Reds,7,4,Kansas City Royals
+717762,2023-06-14,Washington Nationals,4,5,Houston Astros
+717758,2023-06-14,Cleveland Guardians,0,5,San Diego Padres
+717761,2023-06-14,Tampa Bay Rays,6,3,Oakland Athletics
+717757,2023-06-14,Philadelphia Phillies,4,3,Arizona Diamondbacks
+717759,2023-06-14,Miami Marlins,4,1,Seattle Mariners
+717760,2023-06-14,Chicago White Sox,8,4,Los Angeles Dodgers
+717753,2023-06-15,Toronto Blue Jays,2,4,Baltimore Orioles
+717756,2023-06-15,Tampa Bay Rays,4,3,Oakland Athletics
+717755,2023-06-15,Philadelphia Phillies,5,4,Arizona Diamondbacks
+717752,2023-06-15,Detroit Tigers,8,4,Minnesota Twins
+717754,2023-06-15,Colorado Rockies,3,8,Atlanta Braves
+717747,2023-06-15,Pittsburgh Pirates,2,7,Chicago Cubs
+717751,2023-06-15,Los Angeles Angels,5,3,Texas Rangers
+717746,2023-06-15,Washington Nationals,4,1,Houston Astros
+717750,2023-06-15,Cleveland Guardians,8,6,San Diego Padres
+717748,2023-06-15,Chicago White Sox,4,5,Los Angeles Dodgers
+717744,2023-06-16,Baltimore Orioles,3,10,Chicago Cubs
+717749,2023-06-16,Miami Marlins,6,5,Washington Nationals
+717743,2023-06-16,St. Louis Cardinals,1,6,New York Mets
+717742,2023-06-16,New York Yankees,5,15,Boston Red Sox
+717745,2023-06-16,Colorado Rockies,1,8,Atlanta Braves
+717741,2023-06-16,Toronto Blue Jays,2,1,Texas Rangers
+717737,2023-06-16,Cincinnati Reds,2,1,Houston Astros
+717736,2023-06-16,Los Angeles Angels,3,0,Kansas City Royals
+717738,2023-06-16,Detroit Tigers,7,1,Minnesota Twins
+717740,2023-06-16,Pittsburgh Pirates,4,5,Milwaukee Brewers
+717739,2023-06-16,Cleveland Guardians,1,5,Arizona Diamondbacks
+717732,2023-06-16,Tampa Bay Rays,6,2,San Diego Padres
+717735,2023-06-16,Philadelphia Phillies,6,1,Oakland Athletics
+717731,2023-06-16,San Francisco Giants,7,5,Los Angeles Dodgers
+717733,2023-06-16,Chicago White Sox,2,3,Seattle Mariners
+717728,2023-06-17,Detroit Tigers,0,2,Minnesota Twins
+717729,2023-06-17,Baltimore Orioles,2,3,Chicago Cubs
+717723,2023-06-17,Toronto Blue Jays,2,4,Texas Rangers
+717734,2023-06-17,Miami Marlins,5,2,Washington Nationals
+717725,2023-06-17,Philadelphia Phillies,3,2,Oakland Athletics
+717727,2023-06-17,Cincinnati Reds,10,3,Houston Astros
+717726,2023-06-17,Los Angeles Angels,9,10,Kansas City Royals
+717718,2023-06-17,St. Louis Cardinals,5,3,New York Mets
+717724,2023-06-17,Colorado Rockies,2,10,Atlanta Braves
+717722,2023-06-17,Chicago White Sox,4,3,Seattle Mariners
+717720,2023-06-17,Pittsburgh Pirates,0,5,Milwaukee Brewers
+717717,2023-06-17,Tampa Bay Rays,0,2,San Diego Padres
+717721,2023-06-17,San Francisco Giants,15,0,Los Angeles Dodgers
+717719,2023-06-17,Cleveland Guardians,3,6,Arizona Diamondbacks
+717708,2023-06-18,Baltimore Orioles,6,3,Chicago Cubs
+717716,2023-06-18,Colorado Rockies,6,14,Atlanta Braves
+717714,2023-06-18,Miami Marlins,4,2,Washington Nationals
+717730,2023-06-18,New York Yankees,2,6,Boston Red Sox
+717715,2023-06-18,New York Yankees,1,4,Boston Red Sox
+717713,2023-06-18,St. Louis Cardinals,8,7,New York Mets
+717707,2023-06-18,Cincinnati Reds,9,7,Houston Astros
+717712,2023-06-18,Los Angeles Angels,5,2,Kansas City Royals
+717711,2023-06-18,Detroit Tigers,6,4,Minnesota Twins
+717710,2023-06-18,Pittsburgh Pirates,2,5,Milwaukee Brewers
+717709,2023-06-18,Toronto Blue Jays,7,11,Texas Rangers
+717705,2023-06-18,Philadelphia Phillies,3,2,Oakland Athletics
+717706,2023-06-18,Cleveland Guardians,12,3,Arizona Diamondbacks
+717702,2023-06-18,San Francisco Giants,7,3,Los Angeles Dodgers
+717703,2023-06-18,Tampa Bay Rays,4,5,San Diego Padres
+717704,2023-06-18,Chicago White Sox,1,5,Seattle Mariners
+717699,2023-06-19,St. Louis Cardinals,8,6,Washington Nationals
+717692,2023-06-19,Kansas City Royals,4,6,Detroit Tigers
+717700,2023-06-19,Toronto Blue Jays,0,11,Miami Marlins
+717698,2023-06-19,Chicago Cubs,8,0,Pittsburgh Pirates
+717701,2023-06-19,Colorado Rockies,4,5,Cincinnati Reds
+717693,2023-06-19,Boston Red Sox,9,3,Minnesota Twins
+717694,2023-06-19,New York Mets,11,1,Houston Astros
+717695,2023-06-19,Texas Rangers,5,2,Chicago White Sox
+717696,2023-06-19,Arizona Diamondbacks,9,1,Milwaukee Brewers
+717697,2023-06-19,San Diego Padres,4,7,San Francisco Giants
+717681,2023-06-20,Kansas City Royals,1,0,Detroit Tigers
+717687,2023-06-20,Baltimore Orioles,8,6,Tampa Bay Rays
+717689,2023-06-20,Atlanta Braves,4,2,Philadelphia Phillies
+717690,2023-06-20,Toronto Blue Jays,2,0,Miami Marlins
+717686,2023-06-20,Chicago Cubs,4,0,Pittsburgh Pirates
+717691,2023-06-20,St. Louis Cardinals,9,3,Washington Nationals
+717684,2023-06-20,Seattle Mariners,1,3,New York Yankees
+717685,2023-06-20,Colorado Rockies,6,8,Cincinnati Reds
+717679,2023-06-20,Oakland Athletics,2,3,Cleveland Guardians
+717683,2023-06-20,Boston Red Sox,10,4,Minnesota Twins
+717682,2023-06-20,New York Mets,2,4,Houston Astros
+717675,2023-06-20,Texas Rangers,6,7,Chicago White Sox
+717680,2023-06-20,Arizona Diamondbacks,5,7,Milwaukee Brewers
+717688,2023-06-20,San Diego Padres,3,4,San Francisco Giants
+717678,2023-06-20,Los Angeles Dodgers,2,0,Los Angeles Angels
+717677,2023-06-21,Baltimore Orioles,2,7,Tampa Bay Rays
+717676,2023-06-21,Toronto Blue Jays,6,3,Miami Marlins
+717669,2023-06-21,Colorado Rockies,3,5,Cincinnati Reds
+717671,2023-06-21,Chicago Cubs,8,3,Pittsburgh Pirates
+717668,2023-06-21,Kansas City Royals,4,9,Detroit Tigers
+717670,2023-06-21,New York Mets,8,10,Houston Astros
+717672,2023-06-21,Arizona Diamondbacks,5,1,Milwaukee Brewers
+717673,2023-06-21,St. Louis Cardinals,0,3,Washington Nationals
+717666,2023-06-21,Seattle Mariners,2,4,New York Yankees
+717663,2023-06-21,Oakland Athletics,6,7,Cleveland Guardians
+717665,2023-06-21,Boston Red Sox,4,5,Minnesota Twins
+717667,2023-06-21,Texas Rangers,6,3,Chicago White Sox
+717662,2023-06-21,Los Angeles Dodgers,2,0,Los Angeles Angels
+717674,2023-06-21,San Diego Padres,2,4,San Francisco Giants
+717847,2023-06-22,Arizona Diamondbacks,5,3,Washington Nationals
+717657,2023-06-22,Atlanta Braves,5,1,Philadelphia Phillies
+717660,2023-06-22,Oakland Athletics,1,6,Cleveland Guardians
+717658,2023-06-22,Boston Red Sox,0,6,Minnesota Twins
+717661,2023-06-22,San Diego Padres,10,0,San Francisco Giants
+717659,2023-06-22,Kansas City Royals,6,5,Tampa Bay Rays
+717654,2023-06-22,Pittsburgh Pirates,4,6,Miami Marlins
+717652,2023-06-22,Seattle Mariners,10,2,New York Yankees
+717649,2023-06-23,Kansas City Royals,3,11,Tampa Bay Rays
+717647,2023-06-23,Minnesota Twins,4,1,Detroit Tigers
+717650,2023-06-23,Atlanta Braves,10,11,Cincinnati Reds
+717653,2023-06-23,Pittsburgh Pirates,3,1,Miami Marlins
+717651,2023-06-23,Seattle Mariners,13,1,Baltimore Orioles
+717656,2023-06-23,New York Mets,1,5,Philadelphia Phillies
+717655,2023-06-23,Texas Rangers,4,2,New York Yankees
+717646,2023-06-23,Oakland Athletics,5,4,Toronto Blue Jays
+717648,2023-06-23,Milwaukee Brewers,7,1,Cleveland Guardians
+717645,2023-06-23,Boston Red Sox,3,1,Chicago White Sox
+717644,2023-06-23,Los Angeles Angels,4,7,Colorado Rockies
+717642,2023-06-23,Washington Nationals,3,13,San Diego Padres
+717643,2023-06-23,Houston Astros,2,3,Los Angeles Dodgers
+717641,2023-06-23,Arizona Diamondbacks,5,8,San Francisco Giants
+717637,2023-06-24,Chicago Cubs,9,1,St. Louis Cardinals
+717628,2023-06-24,Seattle Mariners,4,6,Baltimore Orioles
+717639,2023-06-24,Arizona Diamondbacks,6,7,San Francisco Giants
+717635,2023-06-24,New York Mets,4,2,Philadelphia Phillies
+717636,2023-06-24,Texas Rangers,0,1,New York Yankees
+717634,2023-06-24,Oakland Athletics,3,7,Toronto Blue Jays
+717632,2023-06-24,Kansas City Royals,9,4,Tampa Bay Rays
+717631,2023-06-24,Atlanta Braves,7,6,Cincinnati Reds
+717629,2023-06-24,Boston Red Sox,4,5,Chicago White Sox
+717630,2023-06-24,Pittsburgh Pirates,3,4,Miami Marlins
+717625,2023-06-24,Milwaukee Brewers,2,4,Cleveland Guardians
+717626,2023-06-24,Houston Astros,7,8,Los Angeles Dodgers
+717633,2023-06-24,Minnesota Twins,2,3,Detroit Tigers
+717638,2023-06-24,Washington Nationals,2,0,San Diego Padres
+717640,2023-06-24,Los Angeles Angels,25,1,Colorado Rockies
+717623,2023-06-25,Chicago Cubs,5,7,St. Louis Cardinals
+717621,2023-06-25,Minnesota Twins,6,3,Detroit Tigers
+717627,2023-06-25,Seattle Mariners,2,3,Baltimore Orioles
+717624,2023-06-25,New York Mets,6,7,Philadelphia Phillies
+717622,2023-06-25,Texas Rangers,3,5,New York Yankees
+717617,2023-06-25,Oakland Athletics,1,12,Toronto Blue Jays
+717619,2023-06-25,Kansas City Royals,1,3,Tampa Bay Rays
+717618,2023-06-25,Atlanta Braves,7,6,Cincinnati Reds
+717620,2023-06-25,Pittsburgh Pirates,0,2,Miami Marlins
+717613,2023-06-25,Milwaukee Brewers,5,4,Cleveland Guardians
+717614,2023-06-25,Boston Red Sox,1,4,Chicago White Sox
+717616,2023-06-25,Los Angeles Angels,3,4,Colorado Rockies
+717612,2023-06-25,Arizona Diamondbacks,5,2,San Francisco Giants
+717610,2023-06-25,Washington Nationals,8,3,San Diego Padres
+717615,2023-06-25,Houston Astros,6,5,Los Angeles Dodgers
+717611,2023-06-26,Cincinnati Reds,3,10,Baltimore Orioles
+717607,2023-06-26,Milwaukee Brewers,2,1,New York Mets
+717609,2023-06-26,Minnesota Twins,1,4,Atlanta Braves
+717606,2023-06-26,Detroit Tigers,7,2,Texas Rangers
+717608,2023-06-26,Chicago White Sox,1,2,Los Angeles Angels
+717602,2023-06-26,Washington Nationals,4,8,Seattle Mariners
+717601,2023-06-27,Cincinnati Reds,3,1,Baltimore Orioles
+717603,2023-06-27,San Diego Padres,4,9,Pittsburgh Pirates
+717604,2023-06-27,San Francisco Giants,3,0,Toronto Blue Jays
+717605,2023-06-27,Miami Marlins,10,1,Boston Red Sox
+717597,2023-06-27,Milwaukee Brewers,2,7,New York Mets
+717600,2023-06-27,Minnesota Twins,2,6,Atlanta Braves
+717598,2023-06-27,Houston Astros,2,4,St. Louis Cardinals
+717599,2023-06-27,Detroit Tigers,3,8,Texas Rangers
+717596,2023-06-27,Philadelphia Phillies,5,1,Chicago Cubs
+717591,2023-06-27,Cleveland Guardians,2,1,Kansas City Royals
+717594,2023-06-27,Los Angeles Dodgers,5,0,Colorado Rockies
+717592,2023-06-27,Chicago White Sox,2,4,Los Angeles Angels
+717590,2023-06-27,Washington Nationals,7,4,Seattle Mariners
+717593,2023-06-27,Tampa Bay Rays,4,8,Arizona Diamondbacks
+717595,2023-06-27,New York Yankees,1,2,Oakland Athletics
+717588,2023-06-28,Minnesota Twins,0,3,Atlanta Braves
+717587,2023-06-28,Washington Nationals,4,1,Seattle Mariners
+717589,2023-06-28,Cincinnati Reds,11,7,Baltimore Orioles
+717585,2023-06-28,San Diego Padres,1,7,Pittsburgh Pirates
+717586,2023-06-28,San Francisco Giants,1,6,Toronto Blue Jays
+717583,2023-06-28,Miami Marlins,6,2,Boston Red Sox
+717581,2023-06-28,Milwaukee Brewers,5,2,New York Mets
+717582,2023-06-28,Houston Astros,10,7,St. Louis Cardinals
+717580,2023-06-28,Detroit Tigers,2,10,Texas Rangers
+717584,2023-06-28,Philadelphia Phillies,8,5,Chicago Cubs
+717577,2023-06-28,Cleveland Guardians,14,1,Kansas City Royals
+717578,2023-06-28,Los Angeles Dodgers,8,9,Colorado Rockies
+717576,2023-06-28,Chicago White Sox,11,5,Los Angeles Angels
+717575,2023-06-28,Tampa Bay Rays,3,2,Arizona Diamondbacks
+717579,2023-06-28,New York Yankees,11,0,Oakland Athletics
+717571,2023-06-29,San Diego Padres,4,5,Pittsburgh Pirates
+717570,2023-06-29,Detroit Tigers,8,5,Texas Rangers
+717573,2023-06-29,Cleveland Guardians,3,4,Kansas City Royals
+717574,2023-06-29,New York Yankees,10,4,Oakland Athletics
+717568,2023-06-29,Tampa Bay Rays,6,1,Arizona Diamondbacks
+717560,2023-06-29,Chicago White Sox,9,7,Los Angeles Angels
+717569,2023-06-29,Miami Marlins,2,0,Boston Red Sox
+717564,2023-06-29,San Francisco Giants,1,2,Toronto Blue Jays
+717565,2023-06-29,Milwaukee Brewers,3,2,New York Mets
+717566,2023-06-29,Houston Astros,14,0,St. Louis Cardinals
+717567,2023-06-29,Philadelphia Phillies,3,1,Chicago Cubs
+717572,2023-06-29,Los Angeles Dodgers,14,3,Colorado Rockies
+717559,2023-06-30,Cleveland Guardians,1,10,Chicago Cubs
+717557,2023-06-30,San Diego Padres,5,7,Cincinnati Reds
+717563,2023-06-30,Washington Nationals,2,1,Philadelphia Phillies
+717561,2023-06-30,Minnesota Twins,8,1,Baltimore Orioles
+717562,2023-06-30,Milwaukee Brewers,7,8,Pittsburgh Pirates
+717555,2023-06-30,Boston Red Sox,5,0,Toronto Blue Jays
+717556,2023-06-30,San Francisco Giants,5,4,New York Mets
+717558,2023-06-30,Miami Marlins,4,16,Atlanta Braves
+717554,2023-06-30,Houston Astros,5,3,Texas Rangers
+717552,2023-06-30,Detroit Tigers,5,8,Colorado Rockies
+717553,2023-06-30,Los Angeles Dodgers,9,3,Kansas City Royals
+717549,2023-06-30,Arizona Diamondbacks,6,2,Los Angeles Angels
+717551,2023-06-30,Chicago White Sox,4,7,Oakland Athletics
+717548,2023-06-30,Tampa Bay Rays,15,4,Seattle Mariners
+717539,2023-07-01,San Diego Padres,12,5,Cincinnati Reds
+717545,2023-07-01,New York Yankees,4,11,St. Louis Cardinals
+717550,2023-07-01,New York Yankees,6,2,St. Louis Cardinals
+717547,2023-07-01,Boston Red Sox,7,6,Toronto Blue Jays
+717542,2023-07-01,Houston Astros,2,5,Texas Rangers
+717541,2023-07-01,Minnesota Twins,1,0,Baltimore Orioles
+717543,2023-07-01,Washington Nationals,4,19,Philadelphia Phillies
+717540,2023-07-01,Milwaukee Brewers,11,8,Pittsburgh Pirates
+717538,2023-07-01,Chicago White Sox,6,7,Oakland Athletics
+717535,2023-07-01,San Francisco Giants,1,4,New York Mets
+717536,2023-07-01,Miami Marlins,0,7,Atlanta Braves
+717546,2023-07-01,Cleveland Guardians,6,0,Chicago Cubs
+717537,2023-07-01,Los Angeles Dodgers,4,6,Kansas City Royals
+717534,2023-07-01,Tampa Bay Rays,3,8,Seattle Mariners
+717544,2023-07-01,Detroit Tigers,4,2,Colorado Rockies
+717533,2023-07-01,Arizona Diamondbacks,3,1,Los Angeles Angels
+717529,2023-07-02,Minnesota Twins,1,2,Baltimore Orioles
+717528,2023-07-02,Washington Nationals,5,4,Philadelphia Phillies
+717532,2023-07-02,Miami Marlins,3,6,Atlanta Braves
+717531,2023-07-02,Milwaukee Brewers,6,3,Pittsburgh Pirates
+717530,2023-07-02,Boston Red Sox,5,4,Toronto Blue Jays
+717526,2023-07-02,San Diego Padres,3,4,Cincinnati Reds
+717527,2023-07-02,Los Angeles Dodgers,1,9,Kansas City Royals
+717524,2023-07-02,New York Yankees,1,5,St. Louis Cardinals
+717520,2023-07-02,Houston Astros,5,3,Texas Rangers
+717523,2023-07-02,Detroit Tigers,14,9,Colorado Rockies
+717522,2023-07-02,Arizona Diamondbacks,2,5,Los Angeles Angels
+717518,2023-07-02,Chicago White Sox,8,7,Oakland Athletics
+717519,2023-07-02,Tampa Bay Rays,6,7,Seattle Mariners
+717521,2023-07-02,Cleveland Guardians,8,6,Chicago Cubs
+717525,2023-07-02,San Francisco Giants,4,8,New York Mets
+717514,2023-07-03,Houston Astros,12,11,Texas Rangers
+717511,2023-07-03,Chicago Cubs,6,8,Milwaukee Brewers
+717517,2023-07-03,Cincinnati Reds,3,2,Washington Nationals
+717515,2023-07-03,St. Louis Cardinals,4,5,Miami Marlins
+717513,2023-07-03,Baltimore Orioles,3,6,New York Yankees
+717512,2023-07-03,Atlanta Braves,4,2,Cleveland Guardians
+717510,2023-07-03,Kansas City Royals,4,8,Minnesota Twins
+717505,2023-07-03,Los Angeles Angels,3,10,San Diego Padres
+717516,2023-07-03,Seattle Mariners,6,5,San Francisco Giants
+717506,2023-07-03,Pittsburgh Pirates,2,5,Los Angeles Dodgers
+717507,2023-07-04,Cincinnati Reds,8,4,Washington Nationals
+717508,2023-07-04,Baltimore Orioles,4,8,New York Yankees
+717502,2023-07-04,St. Louis Cardinals,2,15,Miami Marlins
+717501,2023-07-04,Texas Rangers,6,2,Boston Red Sox
+717500,2023-07-04,Kansas City Royals,3,9,Minnesota Twins
+717504,2023-07-04,Colorado Rockies,1,4,Houston Astros
+717498,2023-07-04,New York Mets,8,5,Arizona Diamondbacks
+717499,2023-07-04,Philadelphia Phillies,3,1,Tampa Bay Rays
+717503,2023-07-04,Chicago Cubs,7,6,Milwaukee Brewers
+717509,2023-07-04,Seattle Mariners,6,0,San Francisco Giants
+717494,2023-07-04,Oakland Athletics,1,0,Detroit Tigers
+717497,2023-07-04,Los Angeles Angels,5,8,San Diego Padres
+717495,2023-07-04,Atlanta Braves,5,6,Cleveland Guardians
+717496,2023-07-04,Toronto Blue Jays,4,3,Chicago White Sox
+717492,2023-07-04,Pittsburgh Pirates,9,7,Los Angeles Dodgers
+717489,2023-07-05,Colorado Rockies,4,6,Houston Astros
+717485,2023-07-05,Oakland Athletics,12,3,Detroit Tigers
+717491,2023-07-05,Philadelphia Phillies,8,4,Tampa Bay Rays
+717488,2023-07-05,St. Louis Cardinals,9,10,Miami Marlins
+717493,2023-07-05,Cincinnati Reds,9,2,Washington Nationals
+717487,2023-07-05,Baltimore Orioles,6,3,New York Yankees
+717484,2023-07-05,Texas Rangers,2,4,Boston Red Sox
+717486,2023-07-05,Atlanta Braves,8,1,Cleveland Guardians
+717482,2023-07-05,Kansas City Royals,0,5,Minnesota Twins
+717483,2023-07-05,Chicago Cubs,4,3,Milwaukee Brewers
+717478,2023-07-05,Los Angeles Angels,3,5,San Diego Padres
+717490,2023-07-05,Seattle Mariners,0,2,San Francisco Giants
+717477,2023-07-05,New York Mets,2,1,Arizona Diamondbacks
+717479,2023-07-05,Pittsburgh Pirates,4,6,Los Angeles Dodgers
+717481,2023-07-06,Cincinnati Reds,5,4,Washington Nationals
+717476,2023-07-06,Oakland Athletics,0,9,Detroit Tigers
+717474,2023-07-06,Chicago Cubs,5,6,Milwaukee Brewers
+717468,2023-07-06,Toronto Blue Jays,6,2,Chicago White Sox
+717480,2023-07-06,Toronto Blue Jays,5,4,Chicago White Sox
+717472,2023-07-06,Philadelphia Phillies,3,1,Tampa Bay Rays
+717473,2023-07-06,St. Louis Cardinals,3,0,Miami Marlins
+717475,2023-07-06,Baltimore Orioles,14,1,New York Yankees
+717469,2023-07-06,Kansas City Royals,1,6,Cleveland Guardians
+717471,2023-07-06,Texas Rangers,6,10,Boston Red Sox
+717467,2023-07-06,Seattle Mariners,5,1,Houston Astros
+717470,2023-07-06,New York Mets,9,0,Arizona Diamondbacks
+717462,2023-07-06,Pittsburgh Pirates,2,5,Los Angeles Dodgers
+717457,2023-07-07,Toronto Blue Jays,12,2,Detroit Tigers
+717460,2023-07-07,Atlanta Braves,2,1,Tampa Bay Rays
+717466,2023-07-07,Philadelphia Phillies,4,3,Miami Marlins
+717465,2023-07-07,Texas Rangers,7,2,Washington Nationals
+717464,2023-07-07,Chicago Cubs,3,0,New York Yankees
+717463,2023-07-07,Kansas City Royals,0,3,Cleveland Guardians
+717461,2023-07-07,Oakland Athletics,3,7,Boston Red Sox
+717453,2023-07-07,Seattle Mariners,10,1,Houston Astros
+717458,2023-07-07,Baltimore Orioles,3,1,Minnesota Twins
+717455,2023-07-07,St. Louis Cardinals,7,8,Chicago White Sox
+717459,2023-07-07,Cincinnati Reds,3,7,Milwaukee Brewers
+717452,2023-07-07,Pittsburgh Pirates,3,7,Arizona Diamondbacks
+717454,2023-07-07,New York Mets,7,5,San Diego Padres
+717456,2023-07-07,Los Angeles Angels,4,11,Los Angeles Dodgers
+717448,2023-07-07,Colorado Rockies,5,2,San Francisco Giants
+717447,2023-07-08,Chicago Cubs,3,6,New York Yankees
+717442,2023-07-08,Toronto Blue Jays,0,2,Detroit Tigers
+717446,2023-07-08,Baltimore Orioles,6,2,Minnesota Twins
+717445,2023-07-08,St. Louis Cardinals,3,0,Chicago White Sox
+717451,2023-07-08,Colorado Rockies,3,5,San Francisco Giants
+717450,2023-07-08,Texas Rangers,3,8,Washington Nationals
+717443,2023-07-08,Kansas City Royals,6,10,Cleveland Guardians
+717449,2023-07-08,Oakland Athletics,3,10,Boston Red Sox
+717439,2023-07-08,Pittsburgh Pirates,2,3,Arizona Diamondbacks
+717438,2023-07-08,Philadelphia Phillies,3,5,Miami Marlins
+717444,2023-07-08,Cincinnati Reds,8,5,Milwaukee Brewers
+717440,2023-07-08,Seattle Mariners,2,3,Houston Astros
+717441,2023-07-08,Atlanta Braves,6,1,Tampa Bay Rays
+717437,2023-07-08,Los Angeles Angels,5,10,Los Angeles Dodgers
+717436,2023-07-08,New York Mets,1,3,San Diego Padres
+717432,2023-07-09,Texas Rangers,2,7,Washington Nationals
+717435,2023-07-09,Oakland Athletics,3,4,Boston Red Sox
+717433,2023-07-09,Chicago Cubs,7,4,New York Yankees
+717434,2023-07-09,Kansas City Royals,4,1,Cleveland Guardians
+717431,2023-07-09,Toronto Blue Jays,4,3,Detroit Tigers
+717429,2023-07-09,Atlanta Braves,4,10,Tampa Bay Rays
+717426,2023-07-09,Philadelphia Phillies,3,7,Miami Marlins
+717430,2023-07-09,Seattle Mariners,3,1,Houston Astros
+717428,2023-07-09,Baltimore Orioles,15,2,Minnesota Twins
+717424,2023-07-09,St. Louis Cardinals,4,3,Chicago White Sox
+717427,2023-07-09,Cincinnati Reds,0,1,Milwaukee Brewers
+717422,2023-07-09,Colorado Rockies,0,1,San Francisco Giants
+717425,2023-07-09,Pittsburgh Pirates,4,2,Arizona Diamondbacks
+717423,2023-07-09,New York Mets,2,6,San Diego Padres
+717418,2023-07-14,San Diego Padres,8,3,Philadelphia Phillies
+717416,2023-07-14,San Francisco Giants,6,4,Pittsburgh Pirates
+717407,2023-07-14,Washington Nationals,7,5,St. Louis Cardinals
+717417,2023-07-14,Miami Marlins,2,5,Baltimore Orioles
+717420,2023-07-14,Arizona Diamondbacks,2,7,Toronto Blue Jays
+717413,2023-07-14,Los Angeles Dodgers,6,0,New York Mets
+717412,2023-07-14,Milwaukee Brewers,1,0,Cincinnati Reds
+717414,2023-07-14,Chicago White Sox,0,9,Atlanta Braves
+717419,2023-07-14,Boston Red Sox,8,3,Chicago Cubs
+717415,2023-07-14,Cleveland Guardians,4,12,Texas Rangers
+717410,2023-07-14,New York Yankees,2,7,Colorado Rockies
+717405,2023-07-14,Houston Astros,7,5,Los Angeles Angels
+717409,2023-07-14,Minnesota Twins,5,4,Oakland Athletics
+717406,2023-07-14,Detroit Tigers,5,4,Seattle Mariners
+717408,2023-07-15,San Diego Padres,4,6,Philadelphia Phillies
+717397,2023-07-15,San Diego Padres,4,9,Philadelphia Phillies
+717411,2023-07-15,Tampa Bay Rays,6,1,Kansas City Royals
+717393,2023-07-15,Tampa Bay Rays,4,2,Kansas City Royals
+717407,2023-07-14,Washington Nationals,7,5,St. Louis Cardinals
+717403,2023-07-15,Boston Red Sox,4,10,Chicago Cubs
+717404,2023-07-15,Arizona Diamondbacks,2,5,Toronto Blue Jays
+717402,2023-07-15,Cleveland Guardians,0,2,Texas Rangers
+717398,2023-07-15,San Francisco Giants,3,1,Pittsburgh Pirates
+717401,2023-07-15,Miami Marlins,5,6,Baltimore Orioles
+717399,2023-07-15,Minnesota Twins,10,7,Oakland Athletics
+717392,2023-07-15,Milwaukee Brewers,3,0,Cincinnati Reds
+717400,2023-07-15,Los Angeles Dodgers,5,1,New York Mets
+717396,2023-07-15,Washington Nationals,6,9,St. Louis Cardinals
+717395,2023-07-15,Chicago White Sox,6,5,Atlanta Braves
+717394,2023-07-15,New York Yankees,6,3,Colorado Rockies
+717389,2023-07-15,Houston Astros,12,13,Los Angeles Angels
+717390,2023-07-15,Detroit Tigers,6,0,Seattle Mariners
+717388,2023-07-16,San Francisco Giants,8,4,Pittsburgh Pirates
+717387,2023-07-16,San Diego Padres,6,7,Philadelphia Phillies
+717391,2023-07-16,Chicago White Sox,8,1,Atlanta Braves
+717384,2023-07-16,Miami Marlins,4,5,Baltimore Orioles
+717386,2023-07-16,Arizona Diamondbacks,5,7,Toronto Blue Jays
+717383,2023-07-16,Milwaukee Brewers,4,3,Cincinnati Reds
+717382,2023-07-16,Tampa Bay Rays,4,8,Kansas City Royals
+717380,2023-07-16,Washington Nationals,4,8,St. Louis Cardinals
+717376,2023-07-16,Boston Red Sox,11,5,Chicago Cubs
+717377,2023-07-16,Cleveland Guardians,5,6,Texas Rangers
+717378,2023-07-16,New York Yankees,7,8,Colorado Rockies
+717379,2023-07-16,Minnesota Twins,5,4,Oakland Athletics
+717373,2023-07-16,Detroit Tigers,0,2,Seattle Mariners
+717385,2023-07-16,Los Angeles Dodgers,1,2,New York Mets
+717381,2023-07-16,Houston Astros,9,8,Los Angeles Angels
+717372,2023-07-17,Los Angeles Dodgers,6,4,Baltimore Orioles
+717371,2023-07-17,Cleveland Guardians,11,0,Pittsburgh Pirates
+717375,2023-07-17,San Francisco Giants,4,2,Cincinnati Reds
+717374,2023-07-17,Miami Marlins,4,6,St. Louis Cardinals
+717370,2023-07-17,Washington Nationals,7,5,Chicago Cubs
+717367,2023-07-17,Tampa Bay Rays,2,3,Texas Rangers
+717368,2023-07-17,Detroit Tigers,3,2,Kansas City Royals
+717369,2023-07-17,New York Yankees,3,4,Los Angeles Angels
+717366,2023-07-17,Boston Red Sox,7,0,Oakland Athletics
+717365,2023-07-17,Minnesota Twins,6,7,Seattle Mariners
+717375,2023-07-17,San Francisco Giants,4,2,Cincinnati Reds
+717363,2023-07-18,Milwaukee Brewers,3,4,Philadelphia Phillies
+717361,2023-07-18,Los Angeles Dodgers,10,3,Baltimore Orioles
+717364,2023-07-18,Cleveland Guardians,10,1,Pittsburgh Pirates
+717362,2023-07-18,San Diego Padres,9,1,Toronto Blue Jays
+717360,2023-07-18,San Francisco Giants,11,10,Cincinnati Reds
+717359,2023-07-18,Chicago White Sox,10,11,New York Mets
+717358,2023-07-18,Arizona Diamondbacks,16,13,Atlanta Braves
+717357,2023-07-18,Miami Marlins,2,5,St. Louis Cardinals
+717353,2023-07-18,Washington Nationals,3,17,Chicago Cubs
+717354,2023-07-18,Tampa Bay Rays,3,5,Texas Rangers
+717356,2023-07-18,Detroit Tigers,10,11,Kansas City Royals
+717355,2023-07-18,Houston Astros,3,4,Colorado Rockies
+717352,2023-07-18,New York Yankees,1,5,Los Angeles Angels
+717349,2023-07-18,Boston Red Sox,0,3,Oakland Athletics
+717350,2023-07-18,Minnesota Twins,10,3,Seattle Mariners
+717348,2023-07-19,Cleveland Guardians,5,7,Pittsburgh Pirates
+717343,2023-07-19,Los Angeles Dodgers,5,8,Baltimore Orioles
+717346,2023-07-19,Tampa Bay Rays,1,5,Texas Rangers
+717351,2023-07-19,Miami Marlins,4,6,St. Louis Cardinals
+717345,2023-07-19,Houston Astros,4,1,Colorado Rockies
+717344,2023-07-19,Boston Red Sox,5,6,Oakland Athletics
+717347,2023-07-19,Milwaukee Brewers,5,3,Philadelphia Phillies
+717338,2023-07-19,San Diego Padres,2,0,Toronto Blue Jays
+717339,2023-07-19,New York Yankees,3,7,Los Angeles Angels
+717342,2023-07-19,San Francisco Giants,2,3,Cincinnati Reds
+717341,2023-07-19,Chicago White Sox,1,5,New York Mets
+717340,2023-07-19,Arizona Diamondbacks,5,3,Atlanta Braves
+717336,2023-07-19,Washington Nationals,3,8,Chicago Cubs
+717333,2023-07-19,Detroit Tigers,3,2,Kansas City Royals
+717335,2023-07-19,Minnesota Twins,6,3,Seattle Mariners
+717337,2023-07-20,Arizona Diamondbacks,5,7,Atlanta Braves
+717334,2023-07-20,San Francisco Giants,1,5,Cincinnati Reds
+717329,2023-07-20,Milwaukee Brewers,4,0,Philadelphia Phillies
+717331,2023-07-20,San Diego Padres,0,4,Toronto Blue Jays
+717330,2023-07-20,Chicago White Sox,6,2,New York Mets
+717332,2023-07-20,Detroit Tigers,3,0,Kansas City Royals
+717327,2023-07-20,Minnesota Twins,0,5,Seattle Mariners
+717328,2023-07-20,Baltimore Orioles,4,3,Tampa Bay Rays
+717322,2023-07-20,St. Louis Cardinals,7,2,Chicago Cubs
+717323,2023-07-20,Houston Astros,3,1,Oakland Athletics
+717325,2023-07-21,St. Louis Cardinals,3,4,Chicago Cubs
+717317,2023-07-21,San Diego Padres,5,4,Detroit Tigers
+717320,2023-07-21,Baltimore Orioles,0,3,Tampa Bay Rays
+717319,2023-07-21,Colorado Rockies,6,1,Miami Marlins
+717326,2023-07-21,San Francisco Giants,3,5,Washington Nationals
+717318,2023-07-21,Kansas City Royals,4,5,New York Yankees
+717321,2023-07-21,Arizona Diamondbacks,6,9,Cincinnati Reds
+717324,2023-07-21,New York Mets,5,4,Boston Red Sox
+717315,2023-07-21,Philadelphia Phillies,5,6,Cleveland Guardians
+717316,2023-07-21,Los Angeles Dodgers,11,5,Texas Rangers
+717314,2023-07-21,Chicago White Sox,4,9,Minnesota Twins
+717313,2023-07-21,Atlanta Braves,6,4,Milwaukee Brewers
+717312,2023-07-21,Pittsburgh Pirates,5,8,Los Angeles Angels
+717310,2023-07-21,Houston Astros,6,4,Oakland Athletics
+717311,2023-07-21,Toronto Blue Jays,2,3,Seattle Mariners
+717304,2023-07-22,Kansas City Royals,2,5,New York Yankees
+717306,2023-07-22,Colorado Rockies,4,3,Miami Marlins
+717324,2023-07-21,New York Mets,5,4,Boston Red Sox
+717308,2023-07-22,St. Louis Cardinals,6,8,Chicago Cubs
+717305,2023-07-22,Los Angeles Dodgers,16,3,Texas Rangers
+717303,2023-07-22,Arizona Diamondbacks,2,4,Cincinnati Reds
+717300,2023-07-22,Baltimore Orioles,6,5,Tampa Bay Rays
+717301,2023-07-22,Toronto Blue Jays,8,9,Seattle Mariners
+717299,2023-07-22,San Diego Padres,14,3,Detroit Tigers
+717307,2023-07-22,San Francisco Giants,1,10,Washington Nationals
+717309,2023-07-22,New York Mets,6,8,Boston Red Sox
+717302,2023-07-22,Philadelphia Phillies,0,1,Cleveland Guardians
+717293,2023-07-22,Chicago White Sox,2,3,Minnesota Twins
+717296,2023-07-22,Atlanta Braves,3,4,Milwaukee Brewers
+717295,2023-07-22,Houston Astros,1,4,Oakland Athletics
+717297,2023-07-22,Pittsburgh Pirates,3,0,Los Angeles Angels
+717288,2023-07-23,San Diego Padres,1,3,Detroit Tigers
+717290,2023-07-23,San Francisco Giants,1,6,Washington Nationals
+717294,2023-07-23,Kansas City Royals,5,8,New York Yankees
+717289,2023-07-23,Arizona Diamondbacks,3,7,Cincinnati Reds
+717291,2023-07-23,Baltimore Orioles,5,3,Tampa Bay Rays
+717283,2023-07-23,Philadelphia Phillies,8,5,Cleveland Guardians
+717292,2023-07-23,Colorado Rockies,2,3,Miami Marlins
+717285,2023-07-23,Chicago White Sox,4,5,Minnesota Twins
+717287,2023-07-23,Atlanta Braves,4,2,Milwaukee Brewers
+717286,2023-07-23,St. Louis Cardinals,2,7,Chicago Cubs
+717284,2023-07-23,Los Angeles Dodgers,4,8,Texas Rangers
+717279,2023-07-23,Houston Astros,3,2,Oakland Athletics
+717278,2023-07-23,Pittsburgh Pirates,5,7,Los Angeles Angels
+717281,2023-07-23,Toronto Blue Jays,4,3,Seattle Mariners
+717298,2023-07-23,New York Mets,1,6,Boston Red Sox
+718558,2023-07-24,San Francisco Giants,1,5,Detroit Tigers
+717280,2023-07-24,Baltimore Orioles,3,2,Philadelphia Phillies
+717282,2023-07-24,Colorado Rockies,10,6,Washington Nationals
+717277,2023-07-24,Kansas City Royals,5,3,Cleveland Guardians
+717275,2023-07-24,Seattle Mariners,3,4,Minnesota Twins
+717274,2023-07-24,Texas Rangers,9,10,Houston Astros
+717273,2023-07-24,Cincinnati Reds,2,3,Milwaukee Brewers
+717276,2023-07-24,Pittsburgh Pirates,8,4,San Diego Padres
+717268,2023-07-24,St. Louis Cardinals,10,6,Arizona Diamondbacks
+717271,2023-07-24,Toronto Blue Jays,6,3,Los Angeles Dodgers
+717265,2023-07-25,Los Angeles Angels,7,6,Detroit Tigers
+717267,2023-07-25,Baltimore Orioles,3,4,Philadelphia Phillies
+717270,2023-07-25,Miami Marlins,1,4,Tampa Bay Rays
+717269,2023-07-25,Colorado Rockies,5,6,Washington Nationals
+717266,2023-07-25,New York Mets,9,3,New York Yankees
+717260,2023-07-25,Kansas City Royals,1,5,Cleveland Guardians
+717261,2023-07-25,Atlanta Braves,1,7,Boston Red Sox
+717264,2023-07-25,Seattle Mariners,9,7,Minnesota Twins
+717255,2023-07-25,Texas Rangers,3,4,Houston Astros
+717263,2023-07-25,Chicago Cubs,7,3,Chicago White Sox
+717262,2023-07-25,Cincinnati Reds,4,3,Milwaukee Brewers
+717258,2023-07-25,Pittsburgh Pirates,1,5,San Diego Padres
+717259,2023-07-25,St. Louis Cardinals,1,3,Arizona Diamondbacks
+717272,2023-07-25,Oakland Athletics,1,2,San Francisco Giants
+717256,2023-07-25,Toronto Blue Jays,7,8,Los Angeles Dodgers
+717257,2023-07-26,Colorado Rockies,4,5,Washington Nationals
+717252,2023-07-26,Miami Marlins,7,1,Tampa Bay Rays
+717249,2023-07-26,Kansas City Royals,3,8,Cleveland Guardians
+717250,2023-07-26,Seattle Mariners,8,7,Minnesota Twins
+717254,2023-07-26,Cincinnati Reds,0,3,Milwaukee Brewers
+717244,2023-07-26,St. Louis Cardinals,11,7,Arizona Diamondbacks
+717246,2023-07-26,Pittsburgh Pirates,3,2,San Diego Padres
+717253,2023-07-26,Toronto Blue Jays,8,1,Los Angeles Dodgers
+717245,2023-07-26,Baltimore Orioles,4,6,Philadelphia Phillies
+717248,2023-07-26,New York Mets,1,3,New York Yankees
+717242,2023-07-26,Atlanta Braves,3,5,Boston Red Sox
+717239,2023-07-26,Texas Rangers,13,5,Houston Astros
+717240,2023-07-26,Chicago Cubs,10,7,Chicago White Sox
+717251,2023-07-26,Oakland Athletics,3,8,San Francisco Giants
+717243,2023-07-27,Los Angeles Angels,6,0,Detroit Tigers
+717247,2023-07-27,Los Angeles Angels,11,4,Detroit Tigers
+717241,2023-07-27,Washington Nationals,1,2,New York Mets
+717238,2023-07-27,Chicago Cubs,10,3,St. Louis Cardinals
+717233,2023-07-27,Cleveland Guardians,6,3,Chicago White Sox
+717236,2023-07-28,Detroit Tigers,5,6,Miami Marlins
+717234,2023-07-28,Philadelphia Phillies,2,1,Pittsburgh Pirates
+717237,2023-07-28,New York Yankees,0,1,Baltimore Orioles
+717235,2023-07-28,Los Angeles Angels,1,4,Toronto Blue Jays
+717230,2023-07-28,Washington Nationals,1,5,New York Mets
+717228,2023-07-28,Cleveland Guardians,0,3,Chicago White Sox
+717231,2023-07-28,Milwaukee Brewers,7,10,Atlanta Braves
+717229,2023-07-28,Tampa Bay Rays,4,3,Houston Astros
+717232,2023-07-28,Minnesota Twins,5,8,Kansas City Royals
+717226,2023-07-28,Chicago Cubs,3,2,St. Louis Cardinals
+717227,2023-07-28,Oakland Athletics,8,5,Colorado Rockies
+717223,2023-07-28,Seattle Mariners,5,2,Arizona Diamondbacks
+717224,2023-07-28,Texas Rangers,1,7,San Diego Padres
+717225,2023-07-28,Cincinnati Reds,6,5,Los Angeles Dodgers
+717220,2023-07-28,Boston Red Sox,3,2,San Francisco Giants
+717222,2023-07-29,Los Angeles Angels,1,6,Toronto Blue Jays
+717218,2023-07-29,Detroit Tigers,5,0,Miami Marlins
+717216,2023-07-29,Philadelphia Phillies,6,7,Pittsburgh Pirates
+717215,2023-07-29,Washington Nationals,11,6,New York Mets
+717207,2023-07-29,Minnesota Twins,7,10,Kansas City Royals
+717217,2023-07-29,Cleveland Guardians,2,7,Chicago White Sox
+717221,2023-07-29,Boston Red Sox,2,3,San Francisco Giants
+717213,2023-07-29,Chicago Cubs,5,1,St. Louis Cardinals
+717214,2023-07-29,Tampa Bay Rays,4,17,Houston Astros
+717219,2023-07-29,New York Yankees,8,3,Baltimore Orioles
+717211,2023-07-29,Milwaukee Brewers,5,11,Atlanta Braves
+717212,2023-07-29,Oakland Athletics,11,3,Colorado Rockies
+717210,2023-07-29,Seattle Mariners,3,4,Arizona Diamondbacks
+717209,2023-07-29,Texas Rangers,0,4,San Diego Padres
+717205,2023-07-29,Cincinnati Reds,2,3,Los Angeles Dodgers
+717201,2023-07-30,Los Angeles Angels,3,2,Toronto Blue Jays
+717208,2023-07-30,Philadelphia Phillies,4,6,Pittsburgh Pirates
+717206,2023-07-30,Milwaukee Brewers,6,8,Atlanta Braves
+717203,2023-07-30,Washington Nationals,2,5,New York Mets
+717202,2023-07-30,Detroit Tigers,6,8,Miami Marlins
+717196,2023-07-30,Tampa Bay Rays,8,2,Houston Astros
+717198,2023-07-30,Minnesota Twins,1,2,Kansas City Royals
+717204,2023-07-30,Cleveland Guardians,5,0,Chicago White Sox
+717195,2023-07-30,Chicago Cubs,0,3,St. Louis Cardinals
+717199,2023-07-30,Oakland Athletics,0,2,Colorado Rockies
+717197,2023-07-30,Boston Red Sox,3,4,San Francisco Giants
+717194,2023-07-30,Cincinnati Reds,9,0,Los Angeles Dodgers
+717193,2023-07-30,Seattle Mariners,4,0,Arizona Diamondbacks
+717191,2023-07-30,Texas Rangers,3,5,San Diego Padres
+717200,2023-07-30,New York Yankees,3,9,Baltimore Orioles
+717189,2023-07-31,Philadelphia Phillies,4,2,Miami Marlins
+717185,2023-07-31,Tampa Bay Rays,5,1,New York Yankees
+717192,2023-07-31,Milwaukee Brewers,3,5,Washington Nationals
+717186,2023-07-31,Baltimore Orioles,4,2,Toronto Blue Jays
+717187,2023-07-31,Los Angeles Angels,4,1,Atlanta Braves
+717188,2023-07-31,Cincinnati Reds,6,5,Chicago Cubs
+717184,2023-07-31,Cleveland Guardians,3,7,Houston Astros
+717179,2023-07-31,San Diego Padres,3,4,Colorado Rockies
+717181,2023-07-31,Boston Red Sox,2,6,Seattle Mariners
+717190,2023-07-31,Arizona Diamondbacks,4,3,San Francisco Giants
+717182,2023-08-01,Philadelphia Phillies,3,1,Miami Marlins
+717178,2023-08-01,Detroit Tigers,1,4,Pittsburgh Pirates
+717175,2023-08-01,Tampa Bay Rays,5,2,New York Yankees
+717183,2023-08-01,Milwaukee Brewers,6,4,Washington Nationals
+717177,2023-08-01,Baltimore Orioles,13,3,Toronto Blue Jays
+717176,2023-08-01,Los Angeles Angels,1,5,Atlanta Braves
+717174,2023-08-01,Minnesota Twins,3,2,St. Louis Cardinals
+717173,2023-08-01,Cincinnati Reds,9,20,Chicago Cubs
+717168,2023-08-01,Chicago White Sox,0,2,Texas Rangers
+717172,2023-08-01,Cleveland Guardians,0,2,Houston Astros
+717170,2023-08-01,New York Mets,6,7,Kansas City Royals
+717169,2023-08-01,San Diego Padres,8,5,Colorado Rockies
+717167,2023-08-01,Boston Red Sox,6,4,Seattle Mariners
+717180,2023-08-01,Arizona Diamondbacks,3,4,San Francisco Giants
+717171,2023-08-01,Oakland Athletics,3,7,Los Angeles Dodgers
+717165,2023-08-02,Los Angeles Angels,5,12,Atlanta Braves
+717166,2023-08-02,Detroit Tigers,6,3,Pittsburgh Pirates
+717162,2023-08-02,Milwaukee Brewers,2,3,Washington Nationals
+717163,2023-08-02,Cleveland Guardians,2,3,Houston Astros
+717158,2023-08-02,San Diego Padres,11,1,Colorado Rockies
+717161,2023-08-02,Boston Red Sox,3,6,Seattle Mariners
+717159,2023-08-02,Philadelphia Phillies,8,9,Miami Marlins
+717160,2023-08-02,Tampa Bay Rays,2,7,New York Yankees
+717157,2023-08-02,Baltimore Orioles,1,4,Toronto Blue Jays
+717155,2023-08-02,Minnesota Twins,3,7,St. Louis Cardinals
+717153,2023-08-02,Cincinnati Reds,6,16,Chicago Cubs
+717152,2023-08-02,Chicago White Sox,1,11,Texas Rangers
+717156,2023-08-02,New York Mets,0,4,Kansas City Royals
+717164,2023-08-02,Arizona Diamondbacks,2,4,San Francisco Giants
+717154,2023-08-02,Oakland Athletics,1,10,Los Angeles Dodgers
+717147,2023-08-03,Philadelphia Phillies,4,2,Miami Marlins
+717149,2023-08-03,Chicago White Sox,3,5,Texas Rangers
+717148,2023-08-03,New York Mets,2,9,Kansas City Royals
+717150,2023-08-03,Baltimore Orioles,6,1,Toronto Blue Jays
+717151,2023-08-03,Arizona Diamondbacks,0,1,San Francisco Giants
+717142,2023-08-03,Houston Astros,3,4,New York Yankees
+717143,2023-08-03,Pittsburgh Pirates,1,14,Milwaukee Brewers
+717145,2023-08-03,Minnesota Twins,5,3,St. Louis Cardinals
+717146,2023-08-03,Cincinnati Reds,3,5,Chicago Cubs
+717144,2023-08-03,Seattle Mariners,5,3,Los Angeles Angels
+717137,2023-08-03,Oakland Athletics,2,8,Los Angeles Dodgers
+717141,2023-08-04,Atlanta Braves,8,0,Chicago Cubs
+717139,2023-08-04,Washington Nationals,6,3,Cincinnati Reds
+717135,2023-08-04,Tampa Bay Rays,8,0,Detroit Tigers
+717134,2023-08-04,New York Mets,3,10,Baltimore Orioles
+717140,2023-08-04,Kansas City Royals,7,5,Philadelphia Phillies
+717138,2023-08-04,Houston Astros,7,3,New York Yankees
+717136,2023-08-04,Toronto Blue Jays,7,3,Boston Red Sox
+717132,2023-08-04,Chicago White Sox,2,4,Cleveland Guardians
+717133,2023-08-04,Miami Marlins,2,6,Texas Rangers
+717128,2023-08-04,Arizona Diamondbacks,2,3,Minnesota Twins
+717131,2023-08-04,Pittsburgh Pirates,8,4,Milwaukee Brewers
+717127,2023-08-04,Colorado Rockies,9,4,St. Louis Cardinals
+717130,2023-08-04,Seattle Mariners,9,7,Los Angeles Angels
+717129,2023-08-04,Los Angeles Dodgers,10,5,San Diego Padres
+717126,2023-08-05,Houston Astros,1,3,New York Yankees
+717122,2023-08-05,Tampa Bay Rays,2,4,Detroit Tigers
+717121,2023-08-05,Atlanta Braves,6,8,Chicago Cubs
+717124,2023-08-05,Miami Marlins,8,9,Texas Rangers
+717120,2023-08-05,Washington Nationals,7,3,Cincinnati Reds
+717125,2023-08-05,Toronto Blue Jays,5,4,Boston Red Sox
+717123,2023-08-05,Kansas City Royals,6,9,Philadelphia Phillies
+717114,2023-08-05,New York Mets,3,7,Baltimore Orioles
+717117,2023-08-05,San Francisco Giants,1,2,Oakland Athletics
+717118,2023-08-05,Arizona Diamondbacks,1,12,Minnesota Twins
+717115,2023-08-05,Chicago White Sox,7,4,Cleveland Guardians
+717116,2023-08-05,Pittsburgh Pirates,2,3,Milwaukee Brewers
+717119,2023-08-05,Colorado Rockies,2,6,St. Louis Cardinals
+717112,2023-08-05,Los Angeles Dodgers,3,8,San Diego Padres
+717109,2023-08-05,Seattle Mariners,3,2,Los Angeles Angels
+717108,2023-08-06,Chicago White Sox,5,3,Cleveland Guardians
+717107,2023-08-06,New York Mets,0,2,Baltimore Orioles
+717111,2023-08-06,Toronto Blue Jays,13,1,Boston Red Sox
+717113,2023-08-06,Kansas City Royals,4,8,Philadelphia Phillies
+717110,2023-08-06,Houston Astros,9,7,New York Yankees
+717104,2023-08-06,Washington Nationals,6,3,Cincinnati Reds
+717103,2023-08-06,Tampa Bay Rays,10,6,Detroit Tigers
+717106,2023-08-06,Arizona Diamondbacks,3,5,Minnesota Twins
+717105,2023-08-06,Pittsburgh Pirates,4,1,Milwaukee Brewers
+717099,2023-08-06,Colorado Rockies,1,0,St. Louis Cardinals
+717098,2023-08-06,Atlanta Braves,4,6,Chicago Cubs
+717102,2023-08-06,Miami Marlins,0,6,Texas Rangers
+717101,2023-08-06,Seattle Mariners,3,2,Los Angeles Angels
+717100,2023-08-06,San Francisco Giants,6,8,Oakland Athletics
+717093,2023-08-06,Los Angeles Dodgers,8,2,San Diego Padres
+717094,2023-08-07,Los Angeles Dodgers,13,7,San Diego Padres
+717091,2023-08-07,Minnesota Twins,9,3,Detroit Tigers
+717097,2023-08-07,Miami Marlins,2,5,Cincinnati Reds
+717095,2023-08-07,Atlanta Braves,6,7,Pittsburgh Pirates
+717089,2023-08-07,Kansas City Royals,2,6,Boston Red Sox
+717092,2023-08-07,Chicago Cubs,2,11,New York Mets
+717087,2023-08-07,Toronto Blue Jays,3,1,Cleveland Guardians
+717088,2023-08-07,New York Yankees,1,5,Chicago White Sox
+717086,2023-08-07,Colorado Rockies,1,12,Milwaukee Brewers
+717090,2023-08-07,San Francisco Giants,8,3,Los Angeles Angels
+717081,2023-08-07,Texas Rangers,5,3,Oakland Athletics
+717082,2023-08-08,Washington Nationals,4,8,Philadelphia Phillies
+717096,2023-08-08,Washington Nationals,5,4,Philadelphia Phillies
+717085,2023-08-08,St. Louis Cardinals,2,4,Tampa Bay Rays
+717076,2023-08-08,Minnesota Twins,0,6,Detroit Tigers
+717083,2023-08-08,Miami Marlins,3,2,Cincinnati Reds
+717084,2023-08-08,Houston Astros,7,6,Baltimore Orioles
+717079,2023-08-08,Atlanta Braves,8,6,Pittsburgh Pirates
+717077,2023-08-08,Kansas City Royals,9,3,Boston Red Sox
+717080,2023-08-08,Chicago Cubs,3,2,New York Mets
+717074,2023-08-08,Toronto Blue Jays,0,1,Cleveland Guardians
+717075,2023-08-08,New York Yankees,7,1,Chicago White Sox
+717078,2023-08-08,Colorado Rockies,7,3,Milwaukee Brewers
+717068,2023-08-08,San Francisco Giants,5,7,Los Angeles Angels
+717073,2023-08-08,Los Angeles Dodgers,5,4,Arizona Diamondbacks
+717072,2023-08-08,San Diego Padres,0,2,Seattle Mariners
+717069,2023-08-08,Texas Rangers,6,1,Oakland Athletics

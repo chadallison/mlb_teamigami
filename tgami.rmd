@@ -1,0 +1,356 @@
+---
+output: github_document
+knit: (function(input, ...) { rmarkdown::render(input, output_file = "README.md", envir = globalenv()) })
+---
+
+___
+
+**Data: MLB.com via {baseballr}**
+
+This page contains visualizations of all unique final scores this season for each MLB team. If you are interested in seeing the code used to build this page, feel free to check out [my GitHub respository](https://github.com/chadallison/mlb_teamigami){target="_blank"}.
+
+___
+
+### Teams
+
+- [Arizona Diamondbacks]
+- [Atlanta Braves]
+- [Baltimore Orioles]
+- [Boston Red Sox]
+- [Chicago Cubs]
+- [Chicago White Sox]
+- [Cincinnati Reds]
+- [Cleveland Guardians]
+- [Colorado Rockies]
+- [Detroit Tigers]
+- [Houston Astros]
+- [Kansas City Royals]
+- [Los Angeles Angels]
+- [Los Angeles Dodgers]
+- [Miami Marlins]
+- [Milwaukee Brewers]
+- [Minnesota Twins]
+- [New York Mets]
+- [New York Yankees]
+- [Oakland Athletics]
+- [Philadelphia Phillies]
+- [Pittsburgh Pirates]
+- [San Diego Padres]
+- [San Francisco Giants]
+- [Seattle Mariners]
+- [St. Louis Cardinals]
+- [Tampa Bay Rays]
+- [Texas Rangers]
+- [Toronto Blue Jays]
+- [Washington Nationals]
+
+```{r message = F, warning = F, include = F}
+library(tidyverse)
+library(tvthemes)
+library(baseballr)
+library(retrosheet)
+
+theme_custom = theme_avatar() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5, size = 9, vjust = 2.5, face = "italic"),
+        plot.caption = element_text(face = "italic"),
+        panel.grid.major = element_line(linewidth = 0.5, colour = "#DFDAD1"),
+        panel.grid.minor = element_line(linewidth = 0.5, colour = "#DFDAD1"))
+
+theme_set(theme_custom)
+```
+
+```{r message = F, warning = F, echo = F}
+# reading in existing end game data
+end_games = read_csv("end_games.csv", col_types = cols())
+
+# vector of all dates from beginning of season to yesterday
+season_dates = seq.Date(
+  from = as_date("2023-03-30"),
+  to = Sys.Date() - 1,
+  by = 1
+)
+
+# vector of all star weekend dates where no games were played
+asg_dates = seq.Date(
+  from = as_date("2023-07-10"),
+  to = as_date("2023-07-13"),
+  by = 1
+)
+
+# removing all star weekend dates and existing data dates from loop vector
+season_dates = season_dates[!season_dates %in% asg_dates & !season_dates %in% end_games$date]
+
+# original method of populating end game data
+# end_games = data.frame()
+
+# looping through dates not already in end game data and getting game_pks
+if (length(season_dates) > 0) {
+  for (i in 1:length(season_dates)) {
+    loop_data = mlb_game_pks(date = season_dates[i]) |>
+      filter(status.detailedState == "Final") |>
+      select(game_pk, date = officialDate,
+             away_team = teams.away.team.name, away_score = teams.away.score,
+             home_score = teams.home.score, home_team = teams.home.team.name)
+    
+    end_games = rbind(end_games, loop_data)
+  }
+}
+
+# rewriting existing end game data
+write_csv(end_games, "end_games.csv")
+```
+
+```{r echo = F}
+# data frame of all team names with abbreviations and mascot name
+team_names = mlb_teams(season = 2023) |>
+  filter(sport_name == "Major League Baseball") |>
+  select(team = team_full_name, abbrev = team_abbreviation, name = team_name)
+
+# function to generate -igami plot for a given team
+team_igami = function(team) {
+  # getting team mascot name
+  name = team_names$name[which(team_names$team == team)]
+  
+  # getting all unique scores with counts for given team
+  df = end_games |>
+    filter(home_team == team | away_team == team) |>
+    transmute(my_team = team,
+              team_score = ifelse(home_team == team, home_score, away_score),
+              opp_score = ifelse(home_team == team, away_score, home_score),
+              score = paste0(team_score, "-", opp_score),
+              wl = ifelse(team_score > opp_score, "Victory", "Defeat")) |>
+    count(my_team, team_score, opp_score, score, wl)
+  
+  # getting most common score along with relevant info for labeling
+  mc_score = df |> slice_max(n, n = 1, with_ties = F) |> pull(score)
+  mc_wl = df |> slice_max(n, n = 1, with_ties = F) |> pull(wl)
+  mc_n = df |> slice_max(n, n = 1, with_ties = F) |> pull(n)
+  mc_lab = paste0("Most Common Score: ", mc_score, " ", mc_wl, " (", mc_n, "x)")
+  
+  # generating and returning plot
+  return(df |>
+    ggplot(aes(team_score, opp_score)) +
+    geom_point(aes(col = wl), size = 5, shape = "square", show.legend = F) +
+    geom_text(aes(label = n), size = 3, vjust = 0.4) +
+    scale_color_manual(values = c("#CD8B8B", "#80A97C")) +
+    geom_abline(alpha = 0.25) +
+    labs(x = paste0(name, " Score"), y = "Opponent Score",
+         title = paste0("Unique Scores This Season: ", team), subtitle = mc_lab) +
+    scale_x_continuous(breaks = seq(0, 50, by = 1)) +
+    scale_y_continuous(breaks = seq(0, 50, by = 1)))
+}
+```
+
+### Arizona Diamondbacks
+
+```{r echo = F}
+team_igami("Arizona Diamondbacks")
+```
+
+### Atlanta Braves
+
+```{r echo = F}
+team_igami("Atlanta Braves")
+```
+
+### Baltimore Orioles
+
+```{r echo = F}
+team_igami("Baltimore Orioles")
+```
+
+### Boston Red Sox
+
+```{r echo = F}
+team_igami("Boston Red Sox")
+```
+
+### Chicago Cubs
+
+```{r echo = F}
+team_igami("Chicago Cubs")
+```
+
+### Chicago White Sox
+
+```{r echo = F}
+team_igami("Chicago White Sox")
+```
+
+### Cincinnati Reds
+
+```{r echo = F}
+team_igami("Cincinnati Reds")
+```
+
+### Cleveland Guardians
+
+```{r echo = F}
+team_igami("Cleveland Guardians")
+```
+
+### Colorado Rockies
+
+```{r echo = F}
+team_igami("Colorado Rockies")
+```
+
+### Detroit Tigers
+
+```{r echo = F}
+team_igami("Detroit Tigers")
+```
+
+### Houston Astros
+
+```{r echo = F}
+team_igami("Houston Astros")
+```
+
+### Kansas City Royals
+
+```{r echo = F}
+team_igami("Kansas City Royals")
+```
+
+### Los Angeles Angels
+
+```{r echo = F}
+team_igami("Los Angeles Angels")
+```
+
+### Los Angeles Dodgers
+
+```{r echo = F}
+team_igami("Los Angeles Dodgers")
+```
+
+### Miami Marlins
+
+```{r echo = F}
+team_igami("Miami Marlins")
+```
+
+### Milwaukee Brewers
+
+```{r echo = F}
+team_igami("Milwaukee Brewers")
+```
+
+### Minnesota Twins
+
+```{r echo = F}
+team_igami("Minnesota Twins")
+```
+
+### New York Mets
+
+```{r echo = F}
+team_igami("New York Mets")
+```
+
+### New York Yankees
+
+```{r echo = F}
+team_igami("New York Yankees")
+```
+
+### Oakland Athletics
+
+```{r echo = F}
+team_igami("Oakland Athletics")
+```
+
+### Philadelphia Phillies
+
+```{r echo = F}
+team_igami("Philadelphia Phillies")
+```
+
+### Pittsburgh Pirates
+
+```{r echo = F}
+team_igami("Pittsburgh Pirates")
+```
+
+### San Diego Padres
+
+```{r echo = F}
+team_igami("San Diego Padres")
+```
+
+### San Francisco Giants
+
+```{r echo = F}
+team_igami("San Francisco Giants")
+```
+
+### Seattle Mariners
+
+```{r echo = F}
+team_igami("Seattle Mariners")
+```
+
+### St. Louis Cardinals
+
+```{r echo = F}
+team_igami("St. Louis Cardinals")
+```
+
+### Tampa Bay Rays
+
+```{r echo = F}
+team_igami("Tampa Bay Rays")
+```
+
+### Texas Rangers
+
+```{r echo = F}
+team_igami("Texas Rangers")
+```
+
+### Toronto Blue Jays
+
+```{r echo = F}
+team_igami("Toronto Blue Jays")
+```
+
+### Washington Nationals
+
+```{r echo = F}
+team_igami("Washington Nationals")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
