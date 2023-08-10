@@ -4,8 +4,9 @@
 
 This page contains visualizations of all unique final scores this season
 for each MLB team. If you are interested in seeing the code used to
-build this page, feel free to check out [my GitHub
-respository](https://github.com/chadallison/mlb_teamigami).
+build this page, feel free to check out
+<a href="https://github.com/chadallison/mlb_teamigami"
+target="_blank">my GitHub respository</a>.
 
 ------------------------------------------------------------------------
 
