@@ -107,6 +107,14 @@ team_names = mlb_teams(season = 2023) |>
   filter(sport_name == "Major League Baseball") |>
   select(team = team_full_name, abbrev = team_abbreviation, name = team_name)
 
+# function for making dates more readable
+better_date = function(date) {
+  return(paste0(month(date, label = T, abbr = F), " ", day(date), ", ", year(date)))
+}
+
+# PLACEHOLDER
+team = "Chicago Cubs"
+
 # function to generate -igami plot for a given team
 team_igami = function(team) {
   # getting team mascot name
@@ -122,11 +130,35 @@ team_igami = function(team) {
               wl = ifelse(team_score > opp_score, "Victory", "Defeat")) |>
     count(my_team, team_score, opp_score, score, wl)
   
-  # getting most common score along with relevant info for labeling
-  mc_score = df |> slice_max(n, n = 1, with_ties = F) |> pull(score)
-  mc_wl = df |> slice_max(n, n = 1, with_ties = F) |> pull(wl)
-  mc_n = df |> slice_max(n, n = 1, with_ties = F) |> pull(n)
-  mc_lab = paste0("Most Common Score: ", mc_score, " ", mc_wl, " (", mc_n, "x)")
+  end_new = end_games |>
+    filter(home_team == team | away_team == team) |>
+    mutate(team_score = ifelse(home_team == team, home_score, away_score),
+           opp_score = ifelse(home_team == team, away_score, home_score),
+           final = paste0(team_score, "-", opp_score))
+  
+  final_counts = end_new |>
+    count(final)
+  
+  last_info = end_new |>
+    inner_join(final_counts, by = "final") |>
+    filter(n == 1) |>
+    slice_max(date, n = 1) |>
+    mutate(win_team = ifelse(home_score > away_score, home_team, away_team),
+           lose_team = ifelse(home_score > away_score, away_team, home_team),
+           win_score = ifelse(home_score > away_score, home_score, away_score),
+           lose_score = ifelse(home_score > away_score, away_score, home_score),
+           final2 = paste0(win_score, "-", lose_score))
+  
+  last_lab = paste0(
+    "Last Scorigami: ",
+    last_info$win_team,
+    " def. ",
+    last_info$lose_team,
+    " ",
+    last_info$final2,
+    " on ",
+    better_date(last_info$date)
+  )
   
   # generating and returning plot
   return(df |>
@@ -136,7 +168,8 @@ team_igami = function(team) {
     scale_color_manual(values = c("#CD8B8B", "#80A97C")) +
     geom_abline(alpha = 0.25) +
     labs(x = paste0(name, " Score"), y = "Opponent Score",
-         title = paste0("Unique Scores This Season: ", team), subtitle = mc_lab) +
+         title = paste0("Unique Scores This Season: ", team),
+         subtitle = last_lab) +
     scale_x_continuous(breaks = seq(0, 50, by = 1)) +
     scale_y_continuous(breaks = seq(0, 50, by = 1)))
 }
