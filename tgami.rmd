@@ -5,7 +5,29 @@ knit: (function(input, ...) { rmarkdown::render(input, output_file = "README.md"
 
 ___
 
-**Data: MLB.com via {baseballr}**
+```{r message = F, warning = F, include = F}
+library(tidyverse)
+library(tvthemes)
+library(baseballr)
+library(retrosheet)
+
+theme_custom = theme_avatar() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5, size = 9, vjust = 2.5, face = "italic"),
+        plot.caption = element_text(face = "italic"),
+        panel.grid.major = element_line(linewidth = 0.5, colour = "#DFDAD1"),
+        panel.grid.minor = element_line(linewidth = 0.5, colour = "#DFDAD1"))
+
+theme_set(theme_custom)
+
+better_date = function(date) {
+  return(paste0(month(date, label = T, abbr = F), " ", day(date), ", ", year(date)))
+}
+
+sys_time = substr(Sys.time(), 12, 19)
+```
+
+**Data: MLB.com via {baseballr}** | Last Updated: `r better_date(Sys.Date())` at `r sys_time`
 
 This page contains visualizations of all unique final scores this season for each MLB team. If you are interested in seeing the code used to build this page, feel free to check out [my GitHub respository](https://github.com/chadallison/mlb_teamigami){target="_blank"}.
 
@@ -43,22 +65,6 @@ ___
 - [Texas Rangers]
 - [Toronto Blue Jays]
 - [Washington Nationals]
-
-```{r message = F, warning = F, include = F}
-library(tidyverse)
-library(tvthemes)
-library(baseballr)
-library(retrosheet)
-
-theme_custom = theme_avatar() +
-  theme(plot.title = element_text(hjust = 0.5),
-        plot.subtitle = element_text(hjust = 0.5, size = 9, vjust = 2.5, face = "italic"),
-        plot.caption = element_text(face = "italic"),
-        panel.grid.major = element_line(linewidth = 0.5, colour = "#DFDAD1"),
-        panel.grid.minor = element_line(linewidth = 0.5, colour = "#DFDAD1"))
-
-theme_set(theme_custom)
-```
 
 ```{r message = F, warning = F, echo = F}
 # reading in existing end game data
