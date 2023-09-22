@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 
-**Data: MLB.com via {baseballr}** \| Last Updated: September 20, 2023 at
-08:42:39
+**Data: MLB.com via {baseballr}** \| Last Updated: September 22, 2023 at
+09:26:42
 
 This page contains visualizations of all unique final scores this season
 for each MLB team. If you are interested in seeing the code used to
